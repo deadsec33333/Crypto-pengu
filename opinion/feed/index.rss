@@ -1,0 +1,1909 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+>
+
+<channel>
+	<title>Opinion Archives - BeInCrypto</title>
+	<atom:link href="https://beincrypto.com/opinion/feed/" rel="self" type="application/rss+xml" />
+	<link>https://beincrypto.com/opinion/</link>
+	<description>Cryptocurrency News</description>
+	<lastBuildDate>Wed, 11 Dec 2024 11:31:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.5</generator>
+
+<image>
+	<url>https://beincrypto.com/wp-content/uploads/2022/09/cropped-bic_favic-32x32.png</url>
+	<title>Opinion Archives - BeInCrypto</title>
+	<link>https://beincrypto.com/opinion/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>FTX Fallout to DeFi Leader: SwissBorg CEO&#038;Founder Cyrus Fazel on Solana’s Comeback</title>
+		<link>https://beincrypto.com/swissborg-cyrus-fazel-solana-comeback/</link>
+		
+		<dc:creator><![CDATA[Daria Krasnova]]></dc:creator>
+		<pubDate>Wed, 11 Dec 2024 16:00:00 +0000</pubDate>
+				<category><![CDATA[Markets]]></category>
+		<category><![CDATA[Crypto News]]></category>
+		<guid isPermaLink="false">https://beincrypto.com/?p=625090</guid>
+
+					<description><![CDATA[<p>Solana’s recovery after the FTX collapse has cemented its role in DeFi. SwissBorg uses its efficiency to improve decentralized trading tools.</p>
+<p>The post <a href="https://beincrypto.com/swissborg-cyrus-fazel-solana-comeback/">FTX Fallout to DeFi Leader: SwissBorg CEO&#038;Founder Cyrus Fazel on Solana’s Comeback</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Solana has entered 2024 with renewed momentum. After the FTX collapse in late 2022, the blockchain faced doubts due to its close ties with the exchange and Alameda Research. However, instead of fading away, Solana proved its resilience, becoming a go-to platform for fast, low-cost decentralized applications.&nbsp;</strong></p>
+
+
+
+<p>To understand Solana’s comeback, BeInCrypto sat down with Cyrus Fazel, co-founder and CEO of SwissBorg, a leading crypto wealth management platform. Fazel, once a skeptic of Solana, now champions its integration into SwissBorg’s operations and its role in the future of decentralized finance (DeFi).</p>
+
+
+<section id="block_6759717d44606" data-el="bic-block-highlighted-paragraph" data-analytics='{&quot;en&quot;:&quot;highlighted-paragraph&quot;,&quot;ec&quot;:&quot;web:desktop:highlighted-paragraph&quot;,&quot;el&quot;:&quot;highlighted-paragraph-block&quot;,&quot;ev&quot;:&quot;&quot;}' class="c-bic-highlighted-text mb-8 md:mb-12 ">
+    <div class="flex items-center gap-5 px-5 py-4 rounded-xl bg-grey-50 text-dark-grey-700">
+            <div class="bic-block-highlighted-paragraph-content p3 p3--ns [&#038;_p:last-child]:!mb-0 [&#038;_p]:!leading-6 [&#038;_p]:!font-body [&#038;_p]:!text-4 [&#038;_a]:!text-blue-600">
+        <p><span style="font-weight: 400;">SwissBorg </span><span style="font-weight: 400;">is a crypto wealth management platform founded in 2017, based in Switzerland. The company’s mission is to democratize finance by making investment opportunities in cryptocurrencies accessible to everyone. With its user-friendly app and community-driven approach, SwissBorg allows users to securely buy, sell, and manage a variety of crypto assets.</span></p>
+<p><span style="font-weight: 400;">At the core of SwissBorg’s services is its Smart Engine, which aggregates prices from multiple exchanges to ensure users get the best possible rates for their trades. The platform also emphasizes transparency, offering features like portfolio analytics and performance tracking, so users can make informed decisions</span><span style="font-weight: 400;">.</span></p>
+
+      </div>
+    </div>
+  </section>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-skepticism-and-early-impressions-of-solana">Skepticism and Early Impressions of Solana</h2>
+
+
+
+<p>Fazel was upfront about his initial doubts about Solana. In the early 2020s, the blockchain was closely tied to FTX and Alameda Research, two entities that caused unease. <em>&#8220;When I saw that Alameda held 10% of Solana’s supply, I thought, this isn’t going to end well,&#8221;</em> Fazel said. Token concentration was a major concern, and he feared the inevitable dumping of assets would hurt the network’s long-term potential.</p>
+
+
+
+<p>His initial reaction wasn’t just technical but also personal. <em>&#8220;To be honest, part of it was jealousy,&#8221;</em> Fazel admitted. &#8220;FTX was dominating the market in 2021, and their aggressive promotion of Solana made it hard to see past the hype.&#8221; </p>
+
+
+
+<p>However, Fazel’s team at SwissBorg saw Solana differently. Engineers on his team were captivated by its technical capabilities, often working on it during hackathons or side projects. <em>&#8220;The team saw potential in Solana long before I did,&#8221;</em> he added.</p>
+
+
+
+<p>The turning point came when SwissBorg’s Chief Technology Officer (CTO), Nicolas Rémond,  presented a detailed analysis of Solana’s infrastructure.<em> &#8220;He explained that Solana was the only chain with DEX-supporting CLOBs system (centralized limit order books). When I saw the numbers, I couldn’t argue anymore — it was clear they were light-years ahead,&#8221;</em> Fazel said. This realization marked the start of SwissBorg’s journey with Solana.</p>
+
+
+
+<p>The collapse of FTX in late 2022 put Solana in a precarious position. The blockchain’s reputation was heavily tied to the exchange, and its token price dropped dramatically. Critics were quick to predict Solana’s demise. Fazel admitted that he shared these doubts initially. <em>&#8220;At the time, I thought Solana wouldn’t make it. It was hard to see how they could bounce back from something this damaging,&#8221;</em> he recalled.</p>
+
+
+
+<p>What happened next, however, surprised many, including Fazel. Instead of crumbling, Solana’s developers and community doubled down on building. <em>&#8220;They didn’t let the collapse define them. They kept innovating, holding hackathons, and releasing new tools. That kind of resilience is rare in crypto,&#8221;</em> Fazel shared.</p>
+
+
+
+<p>Fazel credited much of Solana’s recovery to the leadership of the Solana Foundation. <em>&#8220;Lily, their president, was instrumental. She focused on the long-term vision instead of getting caught up in token prices or public opinion,&#8221;</em> he explained. The foundation’s ability to maintain focus and support its developers ensured that Solana could weather the storm. <em>&#8220;Most projects would have folded under that kind of pressure, but Solana proved they were here to stay,&#8221;</em> Fazel said.</p>
+
+
+
+<p>For SwissBorg, Solana’s ability to recover from such a major setback validated the blockchain’s strength. <em>&#8220;It showed me that Solana wasn’t just another project — it had staying power,&#8221;</em> he added.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading">The Place in SwissBorg’s Ecosystem</h2>
+
+
+
+<p>Today, Solana plays an important role in SwissBorg’s operations, most notably the integration of leading Solana DEXs like Orca and Raydium into <a href="https://swissborg.com/smart-engine" target="_blank" rel="noreferrer noopener">SwissBorg’s meta-exchange</a>, which is powered by 11 centralised and decentralised exchanges. The meta-exchange enables trades to be routed and fractionalised across multiple order books to always find the best liquidity and rates, often outperforming all other competition on the market.</p>
+
+
+
+<p>Fazel described a common scenario: a SwissBorg user wants to convert Swiss francs into SwissBorg’s BORG token. Typically, this involves converting francs into Solana via a centralized exchange (CEX) and then using Solana to acquire BORG, either on a CEX or a decentralized exchange (DEX).</p>
+
+
+
+<p>High gas fees would make DEX usage impractical, as the costs would outweigh the benefits. <em>&#8220;If the gas prices were high, we would never use DEXs and would always stick to CEXs,&#8221; </em>Fazel said.</p>
+
+
+
+<p>With Solana’s low fees, however, this process becomes feasible, enabling SwissBorg to prioritize DEX trading when it offers better prices. Additionally, SwissBorg has introduced a feature that batches multiple DEX transactions into a single order.</p>
+
+
+
+<p><em>&#8220;We group five or ten transactions into one to lower costs even further,&#8221;</em> Fazel explained. This batching not only reduces fees but also minimizes exposure to maximum extractable value (MEV) attacks. <em>&#8220;By combining transactions, there’s a smaller chance of getting sandwiched,&#8221;</em> he said.</p>
+
+
+
+<p>Beyond cost savings, Solana’s speed and scalability has allowed SwissBorg to scale its services. Fazel stressed that this scalability translates directly to better user experiences. <em>&#8220;It’s not just about technology — it’s about providing seamless tools for our community. Solana lets us do that,&#8221;</em> he added. </p>
+
+
+
+<p>While Solana is an important part of SwissBorg’s ecosystem, Fazel highlighted the need for diversification. &#8220;<em>Relying on one blockchain is risky. It goes against the principles of decentralization,&#8221;</em> he said.</p>
+
+
+
+<p>SwissBorg has adopted a deliberate, &#8220;Swiss-style&#8221; approach to blockchain adoption, carefully evaluating potential options. <em>&#8220;We’re very slow on this model,&#8221;</em> Fazel explained. The company is exploring Ethereum Virtual Machine (EVM) compatibility with platforms like Base and Arbitrum but has yet to commit to a specific chain. <em>&#8220;For now, we haven’t found the perfect fit,&#8221; </em>he added.</p>
+
+
+
+<p>Fazel highlighted that this cautious approach includes exploring grants and partnerships to align efforts with meaningful collaboration. <em>&#8220;Acknowledgment of our contributions is important to us as a collaborative company,&#8221;</em> he noted.</p>
+
+
+
+<p>Reflecting on their integration with Solana, Fazel explained that SwissBorg never sought external funding for their work but focused on building tools that benefited both their users and the broader ecosystem. <em>&#8220;We always tried to help ourselves in both ways, which worked out well,&#8221;</em> he said. This model serves as a foundation for SwissBorg’s ongoing exploration of new blockchain partnerships.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-solana-s-role-in-the-future-of-defi">Solana’s Role in the Future of DeFi</h2>
+
+
+
+<p>Solana’s combination of speed and low transaction costs makes it an excellent choice for building decentralized finance (DeFi) tools. Its ability to process large volumes of transactions at minimal cost sets it apart from other blockchains, enabling projects that might not be practical on platforms with higher fees. For SwissBorg, these characteristics are essential in creating financial tools that are both efficient and accessible to users.<br><br>SwissBorg&#8217;s integration with Solana extends beyond its operational benefits. The BORG token, which has been bridged to Solana, plays a central role in the ecosystem. Complementing this, the SwissBorg community has created <a href="https://borgpad.com/" target="_blank" rel="noreferrer noopener">BorgPad</a>, a liquidity bootstrapping protocol designed for fair launches. This initiative empowers projects that align with the ethos of decentralization and community-driven growth, embodying the collaborative spirit of DeFi.</p>
+
+
+
+<p>Fazel also commented on the rise of fair launches and community-driven projects. While he acknowledged that trends like meme coins can seem frivolous, he emphasized their importance in keeping the ecosystem dynamic. <em>&#8220;Meme coins and fair launches bring new people into the space. They create engagement, which is vital for growth,&#8221;</em> he said.</p>
+
+
+
+<p>The company’s move onto Solana also included a focus on liquid staking, an area the platform explored extensively with Jito. <em>&#8220;We’ve been working with Jito for a while now, particularly on liquid staking,&#8221;</em> Fazel shared. This collaboration eventually led SwissBorg to consider re-staking, a concept that has gained attention despite being a somewhat controversial topic. <em>&#8220;Re-staking is something we’ve been experimenting with, and we still see potential in it,&#8221;</em> he added.</p>
+
+
+
+<p>Beyond Solana, SwissBorg has also worked closely with EigenLayer, becoming one of the largest providers of ETH and USDC on its protocol. <em>&#8220;Many of our users have farmed their tokens successfully, and the rewards have been strong,&#8221;</em> Fazel said.</p>
+
+
+
+<p>However, he noted that EigenLayer’s business model focuses on risk management across different Layer-2 networks, which makes its use case more niche. <em>&#8220;They’ve built something solid, but the business case hasn’t yet fully proven itself. Despite this, EigenLayer’s $15 billion in total value locked (TVL) is impressive,&#8221;</em> he explained. </p>
+
+
+
+<p>Jito, on the other hand, has taken a different approach by incorporating MEV rewards into its liquid staking protocol. <em>&#8220;Their idea of distributing MEV rewards to data nodes and validators is really fresh,&#8221;</em> Fazel added.</p>
+
+
+
+<p>Inspired by this model, SwissBorg spin-off <a href="https://kyros.fi/" target="_blank" rel="noreferrer noopener">Kyros</a> has now developed a re-staking protocol on Solana in partnership with Jito. <em>&#8220;Kyros.fi delegates rewards to different validators, and it’s a really exciting step forward for DeFi on Solana,&#8221;</em> the CEO shared. The protocol will go live in the coming weeks, with Fazel highlighting its potential to drive engagement without requiring massive amounts of TVL.</p>
+
+
+
+<p>Looking ahead, Fazel is optimistic about the possibilities DeFi offers and the role Solana will continue to play<em>. &#8220;Solana’s strengths help us stay at the forefront of what’s happening in DeFi,&#8221;</em> he said. For SwissBorg, the blockchain remains a vital part of its mission to democratize access to finance. Its scalability, low costs, and adaptability have made it a reliable partner for building tools that empower users.</p>
+
+
+
+<p>As SwissBorg explores opportunities with other blockchains like Sui, Fazel sees Solana as an integral piece of the puzzle. <em>&#8220;We’re always looking ahead, but Solana consistently helps us deliver on our mission to give people the tools they need to take control of their financial futures,&#8221; </em>he concluded.</p>
+<p>The post <a href="https://beincrypto.com/swissborg-cyrus-fazel-solana-comeback/">FTX Fallout to DeFi Leader: SwissBorg CEO&#038;Founder Cyrus Fazel on Solana’s Comeback</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://beincrypto.com/wp-content/uploads/2024/12/img_0155.png" medium="image" width="1920" height="1080" type="image/png" />
+<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2024/12/img_0155.png"/>	</item>
+		<item>
+		<title>Privasea CEO David Jiao: Building Trustless Humanity and Redefining Web3 Security</title>
+		<link>https://beincrypto.com/privasea-ceo-david-jiao-building-trustless-humanity-and-redefining-web3-security/</link>
+		
+		<dc:creator><![CDATA[Luka Mrkic]]></dc:creator>
+		<pubDate>Tue, 03 Dec 2024 13:20:37 +0000</pubDate>
+				<category><![CDATA[Businesses]]></category>
+		<guid isPermaLink="false">https://beincrypto.com/?p=619332</guid>
+
+					<description><![CDATA[<p>At Crypto AI:CON 2024, we sat down with David Jiao, CEO of Privasea, a trailblazer in the Web3 space addressing one of its most pressing challenges: bots. Privasea is on a mission to create a &#8220;proof-of-humanity&#8221; ecosystem that ensures fair engagement in decentralized applications without compromising user privacy.  Their advanced integration of biometric verification and &#8230; <a href="https://beincrypto.com/privasea-ceo-david-jiao-building-trustless-humanity-and-redefining-web3-security/">Continued</a></p>
+<p>The post <a href="https://beincrypto.com/privasea-ceo-david-jiao-building-trustless-humanity-and-redefining-web3-security/">Privasea CEO David Jiao: Building Trustless Humanity and Redefining Web3 Security</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>At Crypto AI:CON 2024, we sat down with David Jiao, CEO of <a href="https://www.privasea.ai/" target="_blank" rel="noreferrer noopener">Privasea</a>, a trailblazer in the Web3 space addressing one of its most pressing challenges: bots. </strong></p>
+
+
+
+<p>Privasea is on a mission to create a &#8220;proof-of-humanity&#8221; ecosystem that ensures fair engagement in decentralized applications without compromising user privacy. </p>
+
+
+
+<p>Their advanced integration of biometric verification and trustless environments is setting new standards in the fight against bot-driven scams in the blockchain industry. In this insightful interview with Luka, Lunar Strategy’s Head of Sales, David sheds light on the transformative work Privasea is doing to balance privacy, security, and accessibility in the Web3 ecosystem.</p>
+
+
+
+<p><strong>What does “trustless humanity” mean to you, and how does Privasea aim to achieve this in fighting bots?</strong></p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p>Building trustless solutions to fight bots is one of our main goals and a core part of our products. We’re building a proof-of-human ecosystem that allows ecosystem partners to easily verify that an address or user account belongs to a real human.&nbsp;</p>
+
+
+
+<p>This attestation of humanity can be accessed on-chain or off-chain through our API or ABI, making it straightforward for partners to integrate. They can check our smart contract to confirm if a user is a trusted human.</p>
+
+
+
+<p>The purpose of this is to combat scams and bot farming in Web3. Not anti-human farming, though—human farming is different, as real people engaging with projects is beneficial. They’re spending their time and contributing, which is healthy for the ecosystem.&nbsp;</p>
+
+
+
+<p>What we’re targeting are scripts or automated bots that farm tokens. We want projects to reward real humans, not these bots.</p>
+</blockquote>
+
+
+
+<p><strong>Why are bots a growing challenge in the Web3 ecosystem with advancements in AI, and how does Privasea address this while ensuring user privacy through biometric verification?</strong></p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p>Right now, with the rise of large language models and advanced AI agents, it’s much easier for bots to mimic humans, even generating human voices to spread toxic content or scam people. That’s a huge challenge.&nbsp;</p>
+
+
+
+<p>To effectively eliminate bots in this AI era, you need reliable verification methods. One of the most effective and secure ways we see is through biometric data, which we’ve adopted at Privasea as a proof-of-humanity solution.</p>
+
+
+
+<p>We want users to use biometric data to verify themselves without risking their privacy. We don’t want them to have to share their biometric data just to earn a few tokens. Our goal is for users to retain control over their biometric data, self-custody it, and still be able to verify themselves securely in Web3 without privacy concerns.</p>
+</blockquote>
+
+
+
+<p><strong>How does Privasea balance security and a trustless environment, especially when it comes to fighting bots?</strong></p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p>First, we make user onboarding easy by having them register and maintain a Soulbound Token (SBT)&nbsp; in our app. This unique badge can link to their social profiles or wallet addresses, allowing their “proof of humanity” to be visible on the blockchain. It’s similar to Web3 domain alliances, like Vitalik’s .eth address representing his wallet.&nbsp;</p>
+
+
+
+<p>When users input their wallet addresses, they’ll see a proof-of-human badge, which confirms their identity. It’s all on-chain, easy to check, and we think it’ll be well-received in the market since it’s what’s lacking right now.</p>
+</blockquote>
+
+
+
+<p><strong>Can you share some details on the mainnet launch and key features users can expect?</strong></p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p>We’ll launch a testnet beta in December. Node holders will be able to pre-mine in our network by providing proof of readiness, and we’re inviting FHE-dedicated accelerators to join and provide computational power to boost FHE machine learning in our network.&nbsp;</p>
+
+
+
+<p>The mainnet launch is planned for Q1 of next year, in 2025. On mainnet, we’ll support more machine learning models via FHE pipelines, allowing developers to optimize their entire pipeline within our network by simply paying gas fees.</p>
+</blockquote>
+
+
+
+<p><strong>Could you give specifics on the upcoming TGE and its potential impact on the ecosystem?</strong></p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p>I can’t confirm the exact date of the TGE, but I can say it will significantly strengthen the ecosystem. Once it happens, the tokens can be used in the network as fundamental utilities, like gas fees, supporting the FHE machine learning network. Miners providing computational power will be rewarded with tokens, and the ecosystem’s utility tokens will incentivize both the supply and application sides.</p>
+
+
+
+<p>The TGE will offer rewards for early users as well. We have about 300,000 users who are already registered in our app, and they’ll receive a substantial portion of these rewards.&nbsp;</p>
+
+
+
+<p>In fact, we’ve dedicated 10% of our token distribution for airdrops to application users during the first year as a reward for supporting us since we launched in June on Solana. We’re now expanding to Solana and Arbitrum, and these early supporters have been instrumental in helping us test the app. And more importantly, we’re rewarding actual humans, not bots.</p>
+</blockquote>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-about-crypto-ai-conference">About Crypto AI Conference</h2>
+
+
+
+<p><a href="https://ai.lunarstrategy.com/" target="_blank" rel="noreferrer noopener">Crypto AI:CON 2024</a> is Europe’s premier event at the intersection of blockchain and artificial intelligence, hosted in the heart of Lisbon—quickly earning its reputation as Europe’s Silicon Valley. Held at the iconic Técnico Innovation Center, the conference is a two-day gathering of visionaries, innovators, and trailblazers driving the future of decentralized technology.</p>
+
+
+
+<p>With Lisbon’s dynamic tech ecosystem as the backdrop, Crypto AI:CON provides a platform for top-tier speakers, groundbreaking workshops, and exclusive panels that explore how AI and crypto are converging to create new opportunities. From decentralizing data privacy to leveraging AI for efficiency in DeFi, the event highlights the latest use cases and trends reshaping industries worldwide.</p>
+
+
+
+<p>More than 2,000 attendees from around the globe will connect with leading AI experts, blockchain pioneers, investors, and startups, making it an unparalleled networking hub. Supported by industry giants such as ICP, Privasea, and ICN Protocol, Crypto AI:CON sets the stage for critical conversations and collaborations shaping tomorrow’s decentralized economy.</p>
+
+
+
+<p>Stay tuned for more transformative ideas shaping the future of Web3!</p>
+<p>The post <a href="https://beincrypto.com/privasea-ceo-david-jiao-building-trustless-humanity-and-redefining-web3-security/">Privasea CEO David Jiao: Building Trustless Humanity and Redefining Web3 Security</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://beincrypto.com/wp-content/uploads/2024/12/telegram-cloud-photo-size-2-5355314947116098334-y.jpg" medium="image" width="1280" height="720" type="image/jpeg" />
+<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2024/12/telegram-cloud-photo-size-2-5355314947116098334-y.jpg"/>	</item>
+		<item>
+		<title>Transforming Advertising Through Decentralization: Alkimi Exchange CEO Ben Putley on Transparence, Trust and Data Control</title>
+		<link>https://beincrypto.com/ben-putley-alkimi-decentralized-advertising/</link>
+		
+		<dc:creator><![CDATA[Daria Krasnova]]></dc:creator>
+		<pubDate>Fri, 29 Nov 2024 15:00:00 +0000</pubDate>
+				<category><![CDATA[Markets]]></category>
+		<category><![CDATA[Crypto News]]></category>
+		<guid isPermaLink="false">https://beincrypto.com/?p=617085</guid>
+
+					<description><![CDATA[<p>Alkimi Exchange uses blockchain to disrupt digital advertising, addressing inefficiencies, fraud, and data privacy. Decentralization promises a fairer ecosystem for advertisers, publishers, and users alike.</p>
+<p>The post <a href="https://beincrypto.com/ben-putley-alkimi-decentralized-advertising/">Transforming Advertising Through Decentralization: Alkimi Exchange CEO Ben Putley on Transparence, Trust and Data Control</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>In recent years, the advertising industry has faced growing criticism due to concerns around data privacy, fraud, and inefficiencies. Traditional digital advertising, particularly through intermediaries like Google and Facebook, has led to a lack of transparency for advertisers and publishers alike.</strong></p>
+
+
+
+<p>Ben Putley, CEO and Co-Founder of <a href="https://www.alkimi.org" target="_blank" rel="noreferrer noopener nofollow">Alkimi Exchange</a>, believes the digital advertising industry is long overdue for a change. Here, he breaks down how blockchain technology is reshaping advertising and why it’s time for the industry to evolve.</p>
+
+
+<section id="block_6749be10ad5ba" data-el="bic-block-highlighted-paragraph" data-analytics='{&quot;en&quot;:&quot;highlighted-paragraph&quot;,&quot;ec&quot;:&quot;web:desktop:highlighted-paragraph&quot;,&quot;el&quot;:&quot;highlighted-paragraph-block&quot;,&quot;ev&quot;:&quot;&quot;}' class="c-bic-highlighted-text mb-8 md:mb-12 ">
+    <div class="flex items-center gap-5 px-5 py-4 rounded-xl bg-grey-50 text-dark-grey-700">
+            <div class="bic-block-highlighted-paragraph-content p3 p3--ns [&#038;_p:last-child]:!mb-0 [&#038;_p]:!leading-6 [&#038;_p]:!font-body [&#038;_p]:!text-4 [&#038;_a]:!text-blue-600">
+        <p><em>Alkimi Exchange is a blockchain-based decentralized advertising platform aimed at solving inefficiencies in the digital ad ecosystem. The platform leverages blockchain technology to eliminate intermediaries, reduce costs, and provide transparency in transactions between advertisers and publishers. It uses tokenized ad inventory and smart contracts to automate payments, ensuring efficiency and fraud prevention. Alkimi also empowers users with control over their data, allowing them to choose between sharing it for rewards or maintaining their privacy.</em></p>
+
+      </div>
+    </div>
+  </section>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-the-broken-state-of-advertising">The Broken State of Advertising</h2>
+
+
+
+<p>At its core, <a href="https://beincrypto.com/learn/the-ultimate-guide-to-crypto-advertising-best-practices/" target="_blank" rel="noreferrer noopener">digital advertising</a> operates through intermediaries who profit by managing transactions between advertisers and publishers. These intermediaries — ad exchanges, supply-side platforms (SSPs), and demand-side platforms (DSPs) —  not only inflate costs but also introduce vulnerabilities to fraud. Advertisers face an alarming $65 billion in global losses annually due to fraudulent activity, including bot-generated traffic and manipulated metrics.</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p>&#8220;Advertisers are essentially pouring money into a system they can’t see or control. Fraud thrives in environments where transparency is missing. The lack of accountability also undermines trust, with advertisers unsure whether their spending translates into meaningful engagement or results,” Ben Putley explained.</p>
+</blockquote>
+
+
+
+<p>Publishers are financially constrained under this system. Although they are responsible for creating the content that draws audiences and fuels the advertising ecosystem, they often see only a small portion of the ad revenue, as intermediaries claim a significant share. This leaves publishers with decreasing profits despite their critical role in the process.</p>
+
+
+
+<p>Users fare no better. Most digital advertising platforms treat them as commodities, harvesting their data without consent and inundating them with poorly targeted or intrusive ads. This has led to a rise in ad blockers, with many users opting to avoid ads altogether rather than engage with an ecosystem they don’t trust.</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p>&#8220;Users feel exploited, and they’re not wrong. They’re excluded from the value chain while their personal data fuels it,” he added.</p>
+</blockquote>
+
+
+
+<p>Blockchain technology offers an elegant solution to many of these issues by introducing a transparent and decentralized framework for advertising. Unlike the current system, where transactions occur in a black-box environment, blockchain creates a public ledger where every impression, click, and transaction can be verified.</p>
+
+
+
+<p>For advertisers, this transparency means real-time visibility into how budgets are being spent and assurance that their investments are reaching actual users rather than bots. For publishers, blockchain ensures they receive fair compensation, as payments are automated and verifiable. Every transaction is logged on a decentralized network, making it auditable and resistant to manipulation.</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p>&#8220;Through the Ads Explorer, our proprietary tool, Alkimi provides complete transparency over every ad transaction. Every transaction on Alkimi is validated by a decentralized network of validators and stored on the Ethereum blockchain, ensuring that all spending is fully auditable and eliminating any ambiguity that is common in traditional systems,&#8221; Putley said.</p>
+</blockquote>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-reducing-costs-by-eliminating-intermediaries">Reducing Costs by Eliminating Intermediaries</h2>
+
+
+
+<p>The inefficiencies of the current advertising model stem largely from the reliance on intermediaries. These entities take significant cuts of the ad spend, leaving advertisers with higher costs and publishers with lower earnings. Research suggests that nearly half of an advertiser’s budget — around 47% — is absorbed by these fees.</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p>&#8220;Decentralized platforms change the economics of advertising. By eliminating intermediaries, we’ve reduced fees to just 3-8%. That’s not just a marginal improvement — it’s transformative,&#8221; Putley shared.</p>
+</blockquote>
+
+
+
+<p>This cost-saving benefits both advertisers and publishers. Advertisers can allocate more of their budgets to meaningful engagement, while publishers retain a larger share of the revenue, enabling them to invest in higher-quality content.</p>
+
+
+
+<p><a href="https://beincrypto.com/learn/smart-contracts/" target="_blank" rel="noreferrer noopener">Smart contracts</a> are a critical component of this system. These self-executing agreements automate payments between advertisers and publishers based on predefined conditions. For example, a smart contract might trigger payment only when a user interacts with an ad or makes a purchase.</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p>&#8220;Smart contracts ensure fairness by removing the need for intermediaries. They execute transactions instantly and without bias, based entirely on the terms agreed upon.  Smart contracts also add a layer of security, as they cannot be altered once deployed, providing an immutable and trustworthy system for all parties,” he noted. </p>
+</blockquote>
+
+
+
+<p>But decentralization isn’t just about improving transparency and reducing costs — it’s also about empowering users. In the current model, users are passive participants, with no control over how their data is collected or used.</p>
+
+
+
+<p>Blockchain flips this narrative, giving users the ability to decide how their data is shared and even rewarding them for their participation.</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p>&#8220;Users should have the final say over their data. With decentralization, they can opt-in to share their information in exchange for rewards or keep their data private if they prefer,” Putley asserted.</p>
+</blockquote>
+
+
+
+<p>This user-first approach not only respects privacy but also creates a more ethical and mutually beneficial system. Users who choose to share their data do so transparently and receive compensation, while advertisers gain access to more accurate and engaged audiences. According to Putley, it’s about building trust and creating a system where everyone feels like they’re benefiting.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-challenges-to-adoption">Challenges to Adoption</h2>
+
+
+
+<p>Despite its potential, decentralized advertising faces several hurdles. One of the most significant barriers is the steep learning curve associated with blockchain technology.</p>
+
+
+
+<p>Many advertisers and publishers are familiar with traditional systems and may hesitate to adopt a model they perceive as complex or unproven.</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p>&#8220;The biggest challenge is overcoming inertia. People are naturally resistant to change, even when the benefits are obvious. At Alkimi, we’re addressing this by ensuring our platform is interoperable with existing ad technologies, making the transition as seamless as possible,&#8221; Putley said.</p>
+</blockquote>
+
+
+
+<p>To address this, platforms must prioritize education and interoperability. Decentralized systems need to integrate seamlessly with existing workflows, reducing friction for advertisers and publishers making the transition.</p>
+
+
+
+<p>Offline events, where Ben and his team showcased their approach, play an important role in driving adoption by demonstrating the practical applications of blockchain technology.</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p>&#8220;It’s about making the abstract tangible. We’re showing people that decentralized advertising isn’t just an idea — it’s a working reality,&#8221; he noted.</p>
+</blockquote>
+
+
+
+<p>Critics of blockchain often point to its energy consumption and scalability as potential drawbacks. However, advancements in technology have addressed many of these concerns.\</p>
+
+
+
+<p>Utilizing <a href="https://beincrypto.com/learn/layer-1-vs-layer-2/" target="_blank" rel="noreferrer noopener">Layer-2 scaling solutions</a> helps decentralized platforms process high transaction volumes without the environmental costs associated with earlier blockchain models.</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p>&#8220;Advertising is a high-volume industry. We’ve designed our platform to handle that scale efficiently while minimizing energy usage,” Ben acknowledged. </p>
+</blockquote>
+
+
+
+<p>These improvements make decentralized systems more practical and position them as a greener alternative to traditional advertising, which accounts for a significant portion of global greenhouse gas emissions.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-alkimi-s-vision-for-the-future">Alkimi&#8217;s Vision for the Future</h2>
+
+
+
+<p>As the advertising industry continues to evolve, the case for decentralization grows stronger. The current model is unsustainable, plagued by inefficiencies, distrust, and ethical shortcomings. Blockchain offers a path forward by addressing these challenges and creating a system built on transparency, efficiency, and fairness.</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p>&#8220;We’re still in the early stages, but the momentum is there. Decentralization isn’t just a trend — it’s where the industry is heading,&#8221; Putley said.</p>
+</blockquote>
+
+
+
+<p>The success of this shift will depend on continued innovation, particularly in making blockchain systems more accessible and scalable. Platforms must also focus on delivering measurable benefits to advertisers, publishers, and users alike.</p>
+
+
+
+<p>For advertisers, this means better ROI and reduced costs. For publishers, it’s about fair compensation and sustainable revenue. And for users, it’s about choice, privacy, and respect.</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p>&#8220;Ultimately, it’s about creating a system where everyone wins. That’s what decentralized advertising promises, and it’s what we’re working to deliver,” Ben concluded.</p>
+</blockquote>
+<p>The post <a href="https://beincrypto.com/ben-putley-alkimi-decentralized-advertising/">Transforming Advertising Through Decentralization: Alkimi Exchange CEO Ben Putley on Transparence, Trust and Data Control</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://beincrypto.com/wp-content/uploads/2024/11/Ben-Putley.png" medium="image" width="1280" height="720" type="image/png" />
+<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2024/11/Ben-Putley.png"/>	</item>
+		<item>
+		<title>Path to $100,000: OKX President Hong Fang Weighs in on Bitcoin’s Potential</title>
+		<link>https://beincrypto.com/okx-hong-fang-bitcoin-rally/</link>
+		
+		<dc:creator><![CDATA[Daria Krasnova]]></dc:creator>
+		<pubDate>Fri, 22 Nov 2024 10:00:00 +0000</pubDate>
+				<category><![CDATA[Markets]]></category>
+		<category><![CDATA[Crypto News]]></category>
+		<guid isPermaLink="false">https://beincrypto.com/?p=612717</guid>
+
+					<description><![CDATA[<p>OKX President Hong Fang attributes Bitcoin's surge to US regulatory optimism and institutional adoption, with implications for global finance.</p>
+<p>The post <a href="https://beincrypto.com/okx-hong-fang-bitcoin-rally/">Path to $100,000: OKX President Hong Fang Weighs in on Bitcoin’s Potential</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Hong Fang, President of OKX — a leading Web3 technology company and the world’s second-largest cryptocurrency exchange by trading volume — shared her expert insights on the unprecedented surge of Bitcoin and the broader implications for the crypto industry.</strong></p>
+
+
+
+<p>Fang’s journey to becoming a prominent voice in the space is remarkable. Before joining the Web3 industry in 2019, she worked for eight years as an investment banker at Goldman Sachs and later moved into growth equity investments. She first discovered Bitcoin in 2016, an experience that sparked her passion for promoting a decentralized financial system built on trustlessness and inclusivity.</p>
+
+
+
+<h3 class="wp-block-heading" id="h-the-bitcoin-boom-drivers-behind-the-surge">The Bitcoin Boom: Drivers Behind the Surge</h3>
+
+
+
+<p>Bitcoin’s recent rally to $99,000 marks a major milestone, fueled by renewed optimism about the political and regulatory environment in the United States. Fang attributes this surge to a combination of macroeconomic factors and shifting regulatory expectations. She explained that political support plays an important role in shaping investor confidence, which in turn drives greater adoption and investment.&nbsp;</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p>&#8220;The market is reacting to the Trump administration&#8217;s anticipated pro-crypto stance. This includes potential tax reforms, economic policies, and clearer crypto regulations,&#8221; she said.</p>
+</blockquote>
+
+
+
+<p>Fang noted that Bitcoin&#8217;s position as a hedge against uncertainty is reinforced by market optimism surrounding a potentially more supportive regulatory environment under the current administration, which could further encourage institutional participation.</p>
+
+
+
+<p>One of the most notable trends in the crypto industry is the increasing interest from institutional investors. According to Fang, this interest has been consistent, albeit under the radar. While the presence of institutions in the market may not always be visible, their sophisticated investment strategies involve building positions quietly.&nbsp;</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p>&#8220;Institutional investors, including major players like BlackRock, are already buying Bitcoin, either directly or through ETFs. According to OKX’s research, 70% of institutional investors plan to allocate capital to Bitcoin within the next three years,&#8221; she noted.</p>
+</blockquote>
+
+
+
+<p>Fang sees regulatory clarity as a potential catalyst for even greater institutional involvement, particularly in corporate treasuries and national reserves. According to her, it will unlock significant capital flows from “traditional” players.</p>
+
+
+
+<p>Regulation, however, remains a double-edged sword for the crypto industry. The lack of clarity creates uncertainty, stifling growth and innovation. Even with clearer frameworks, excessive oversight risks stifling the decentralized principles that attract many to the space. Fang stressed the importance of striking the right balance.&nbsp;</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p>&#8220;We’ve been engaging with regulators globally, and many jurisdictions are adopting a positive stance toward crypto. However, the US still has significant ground to cover,&#8221; she observed.</p>
+</blockquote>
+
+
+
+<p>She acknowledged that achieving consistent regulations across regions is challenging due to differences in economic and cultural contexts. While fundamental principles like consumer protection and anti-money laundering are likely to align, regional variations will persist.</p>
+
+
+
+<h3 class="wp-block-heading" id="h-the-strategic-reserve-debate-and-global-implications">The Strategic Reserve Debate and Global Implications</h3>
+
+
+
+<p>The concept of Bitcoin as a strategic reserve currency is gaining momentum, with several US states already recognizing it at the state level. This development, Fang believes, could be a stepping stone toward federal adoption.</p>
+
+
+
+<p>She views the growing conversation around making Bitcoin a national reserve currency as more than speculation; it represents a tangible shift in how governments perceive the digital asset.&nbsp;</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p>&#8220;There’s a growing conversation around Bitcoin becoming a national reserve currency. If the US leads the way, it could trigger a domino effect globally,&#8221; she predicted.</p>
+</blockquote>
+
+
+
+<p>The implications of such a move would be profound, reshaping global monetary policy and strengthening Bitcoin&#8217;s role in international finance. Smaller nations, including <a href="https://beincrypto.com/el-salvodor-bitcoin-surge-helps-buy-back-debt/" target="_blank" rel="noreferrer noopener">El Salvador</a>, have already integrated Bitcoin into their reserve strategies.</p>
+
+
+
+<p>If a global powerhouse like the US were to incorporate Bitcoin into its reserves, it would not only legitimize the asset further but also accelerate its acceptance worldwide.</p>
+
+
+
+<p>Fang noted that the political landscape is already tilting toward this possibility. Pro-Bitcoin senators and congresspeople have gained influence in the US legislative system, with figures like <a href="https://beincrypto.com/lummis-proposes-gold-sale-for-bitcoin-reserve/" target="_blank" rel="noreferrer noopener">Senator Cynthia Lummis</a> vocally supporting Bitcoin as a reserve asset.</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p>“These advocates are pushing for discussions that could bring Bitcoin to the forefront of federal reserve strategies, building on the foundation laid at the state level,” she added.</p>
+</blockquote>
+
+
+
+<h3 class="wp-block-heading" id="h-the-volatility-question-a-feature-not-a-bug">The Volatility Question: A Feature, Not a Bug</h3>
+
+
+
+<p>Bitcoin’s volatility can often discourage new investors, but Fang highlighted the importance of viewing it in a broader context. She encouraged investors to focus on the long-term, noting that despite market fluctuations, Bitcoin has consistently demonstrated upward trends over four-year cycles.</p>
+
+
+
+<p>Fang stressed that patience and resilience are key to successfully navigating the cryptocurrency market. For those looking to enter the market, she provided practical advice: invest cautiously, be prepared for volatility, and maintain a long-term perspective to weather the highs and lows effectively.</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p>&#8220;Volatility is part of the Bitcoin story. It’s the price you pay for an asset that outperforms every other class over a longer time horizon. Invest only what you can afford to lose, and always leave room for error. Responsible investing is key in such a dynamic and evolving space,&#8221; she advised.</p>
+</blockquote>
+
+
+
+<p>While Bitcoin remains the centerpiece of the crypto conversation, Fang touched on the cascading effect its performance has on altcoins. She refrained from making specific price predictions but stressed the importance of due diligence and responsible investing.&nbsp;</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p>&#8220;Historically, Bitcoin leads the rally, followed by altcoins. This cycle is likely to continue. Every investor must do their own research and operate within their risk tolerance,&#8221; she advised.</p>
+</blockquote>
+
+
+
+<p>As bullish as the outlook for cryptocurrencies may be, the inherent risks should not be overlooked. The crypto market is known for its volatility, influenced by macroeconomic trends, regulatory developments, and ongoing technological advancements. Navigating this dynamic sector requires investors to stay informed and adaptable as conditions evolve.</p>
+
+
+
+<p>At the same time, innovation will play a critical role in driving the industry’s long-term growth. The development of practical tools and applications that address real-world challenges will be essential for sustaining momentum and solidifying cryptocurrency&#8217;s place in the global economy.</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p>&#8220;New applications that address real-world challenges will form the foundation for long-term momentum in the crypto space,&#8221; Fang concluded.</p>
+</blockquote>
+<p>The post <a href="https://beincrypto.com/okx-hong-fang-bitcoin-rally/">Path to $100,000: OKX President Hong Fang Weighs in on Bitcoin’s Potential</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://beincrypto.com/wp-content/uploads/2024/11/bic_OKX_Interview_1-covers_neutral.png" medium="image" width="1280" height="720" type="image/png" />
+<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2024/11/bic_OKX_Interview_1-covers_neutral.png"/>	</item>
+		<item>
+		<title>KuCoin Managing Director Alicia Kao Advocates for Crypto Education and Security Innovations at Blockchain Life 2024</title>
+		<link>https://beincrypto.com/alicia-kao-crypto-education-security-innovations/</link>
+		
+		<dc:creator><![CDATA[Dirk van Haaster]]></dc:creator>
+		<pubDate>Wed, 20 Nov 2024 07:00:00 +0000</pubDate>
+				<category><![CDATA[Businesses]]></category>
+		<guid isPermaLink="false">https://beincrypto.com/?p=611085</guid>
+
+					<description><![CDATA[<p>KuCoin, a global crypto exchange, highlighted its commitment to advancing the future of crypto and blockchain at the Blockchain Life 2024 event in Dubai. As the event&#8217;s Stage and Gold Sponsor, KuCoin’s Managing Director Alicia Kao delivered the keynote presentation.&#160; Alicia underscored KuCoin’s dedication to bridging the knowledge gap in the crypto space and empowering &#8230; <a href="https://beincrypto.com/alicia-kao-crypto-education-security-innovations/">Continued</a></p>
+<p>The post <a href="https://beincrypto.com/alicia-kao-crypto-education-security-innovations/">KuCoin Managing Director Alicia Kao Advocates for Crypto Education and Security Innovations at Blockchain Life 2024</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://www.kucoin.com/" target="_blank" rel="noreferrer noopener nofollow"><strong>KuCoin</strong></a><strong>, a global crypto exchange, highlighted its commitment to advancing the future of crypto and blockchain at the Blockchain Life 2024 event in Dubai. As the event&#8217;s Stage and Gold Sponsor, KuCoin’s Managing Director </strong><a href="https://www.linkedin.com/in/kaoalicia/" target="_blank" rel="noreferrer noopener nofollow"><strong>Alicia Kao</strong></a><strong> delivered the keynote presentation.&nbsp;</strong></p>
+
+
+
+<p>Alicia underscored KuCoin’s dedication to bridging the knowledge gap in the crypto space and empowering users to navigate the market safely and confidently. </p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-role-of-education-in-bridging-crypto-knowledge-gaps">Role of Education in Bridging Crypto Knowledge Gaps</h2>
+
+
+
+<p>According to <a href="https://www.kucoin.com/blog/kucoin-campus-survey-reveals-88-percent-of-participants-eager-to-build-careers-in-blockchain" target="_blank" rel="noreferrer noopener nofollow">statistics</a> provided by Alicia, 88% of users are interested in joining the blockchain industry, while 31% hesitate due to a lack of knowledge and experience.</p>
+
+
+
+<p>Further data shared by Alicia revealed that over 50% of participants are reluctant to start crypto trading, citing market volatility as the main reason for their hesitance. Other reasons for lack of participation include concerns about the platform’s security and trustworthiness against potential scams.&nbsp;</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdBVJW3HBXHMxyzSvuWI7S0_VZQIoB83VF0bWBNmOQ2JzrKoYc_D37jvDbW9-HlVPtgaMZ7u4bWVsv8N936Laf0eesMGANjjhhc7RxEP7DNCs1uYnlHaHCtM5d2mngt1142OUMePg?key=iRjFMy1ZQj6NQka1RsumcHH8" alt=""/></figure>
+
+
+
+<p>To overcome this trust deficit, KuCoin launched educational programs such as KuCoin Learn &amp; Earn and KuCoin Campus. Alicia highlighted that within just 45 days of KuCoin’s Learn &amp; Earn program, 2.7 million users completed different courses and, in return, received different rewards. This demonstrates strong user demand for accessible and reliable crypto education.&nbsp;</p>
+
+
+
+<p>In addition, KuCoin addressed over 1.5 million queries, which helped users get answers regarding their concerns about crypto trading during 2024 H1. Shifts in user inquiries also reflect increased platform sophistication, which makes it easier to use for beginners and medium-experienced traders.&nbsp;</p>
+
+
+
+<p>Alicia further highlighted that questions regarding Google 2FA (two-factor authentication) have decreased over the past three years as users have become more knowledgeable. In contrast, advanced trading questions have spiked and taken their place. In fact, users’ concerns have shifted from short-term rewards to long-term investment strategies.&nbsp;</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc-P6K246bPhYS_zlS5a1_c3VW0o6gVdSdy8KbeHzAhcLGvqWMDdyPciseUWsrEw-HxYEVc5n89CTHv6b2AtIAiJLydR8lRWyDtUQBIwfxeMe75tT8rYa-EOYC-8Crdn8p2Jw0YAg?key=iRjFMy1ZQj6NQka1RsumcHH8" alt=""/></figure>
+
+
+
+<p>The rising queries that KuCoin receives are related to Know Your Customer (KYC) processes and suspicious activity consultations.&nbsp;</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-debunking-common-myths-in-crypto-trading">Debunking Common Myths in Crypto Trading</h2>
+
+
+
+<p>KuCoin tackled common misconceptions that help users understand crypto trading better. Some of the notable myths include:&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading" id="h-myth-1-trading-bitcoin-derivatives-means-shorting-bitcoin-nbsp">Myth 1: Trading bitcoin derivatives means shorting bitcoin.&nbsp;</h3>
+
+
+
+<p>KuCoin clarified that futures trading allows users to take both long and short positions, providing them with flexibility and liquidity. It also allows them to hedge against market risks.&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading" id="h-myth-2-withdrawal-issues-mean-exchanges-are-blocking-withdrawal">Myth 2: Withdrawal issues mean exchanges are blocking withdrawal.</h3>
+
+
+
+<p>Many withdrawal delays occur due to network congestion, regulatory compliance, or security protocols rather than attempts by exchanges to restrict access to funds.&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading" id="h-myth-3-cryptocurrency-is-completely-anonymous-nbsp">Myth 3: Cryptocurrency is completely anonymous.&nbsp;</h3>
+
+
+
+<p>Although crypto transactions provide privacy, blockchain technology is trackable, enabling authorities to trace illicit activities. This debunks the myth of complete anonymity.&nbsp;</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-prioritizing-security-and-responsible-trading">Prioritizing Security and Responsible Trading</h2>
+
+
+
+<p>In addition to user education, Alicia highlighted KuCoin&#8217;s focus on security by offering risk-management tools that include price protection, stop-loss/take-profit functions, auto-deleveraging&nbsp; (ADL), and address whitelisting.&nbsp;</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc3ramoI6jth7mbVku4zT1aofJSFMloPWQY6-0mQI5R5yZiRdH16bpG-15uSixksXWn37actq-xUBkRnGtuVKAmQ9l0fNNcvvinLwmn3jmwNLNWXluWVdXa1HKfcPWoDUSMO_TLAg?key=iRjFMy1ZQj6NQka1RsumcHH8" alt=""/></figure>
+
+
+
+<p>All of these features help users minimize risk responsibly, further reinforcing KuCoin’s commitment to a secure trading environment.&nbsp;</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-initiatives-for-a-safer-and-an-informed-community">Initiatives for a Safer and an Informed Community</h2>
+
+
+
+<p>To further cultivate a knowledgeable and secure crypto community, KuCoin has rolled over numerous other initiatives:&nbsp;</p>
+
+
+
+<ol class="bic-gutenberg-list wp-list list-decimal list-inside ">
+<li><strong>KuCoin Learn and KuCoin Campus:</strong> These platforms, accessible to users globally, are designed to provide insights on crypto trends and the latest industry developments.&nbsp;</li>
+
+
+
+<li><strong>KuCoin Ambassador Program: </strong>This initiative helps promote knowledge-sharing in educational institutes and inspires the next generation of blockchain enthusiasts.&nbsp;</li>
+
+
+
+<li><strong>Learn and Earn Program:</strong> Developed as an incentive-based program that makes learning about cryptocurrencies more engaging.&nbsp;</li>
+</ol>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-user-protection-as-a-core-pillar">User Protection as a Core Pillar</h2>
+
+
+
+<p>KuCoin’s approach to consumer protection revolves around education, technological innovation, and transparency.&nbsp;</p>
+
+
+
+<p>This strategy aims to create a safe trading environment while equipping users to make more informed decisions. KuCoin also encourages users to follow safety practices, such as verifying links before opening them to avoid phishing scams, safeguarding passwords, and only using third-party apps.&nbsp;</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-commitment-to-ongoing-education-and-innovation">Commitment to Ongoing Education and Innovation</h2>
+
+
+
+<p>Moving forward, KuCoin plans to continue investing in user education, supporting hackathons, and hosting campus workshops that help nurture emerging blockchain talent.&nbsp;</p>
+
+
+
+<p>By having a focus on knowledge, advanced tools, and user protections, KuCoin aims to build a resilient and informed community of crypto traders.</p>
+<p>The post <a href="https://beincrypto.com/alicia-kao-crypto-education-security-innovations/">KuCoin Managing Director Alicia Kao Advocates for Crypto Education and Security Innovations at Blockchain Life 2024</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://beincrypto.com/wp-content/uploads/2024/11/KuCoin.png" medium="image" width="600" height="400" type="image/png" />
+<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2024/11/KuCoin.png"/>	</item>
+		<item>
+		<title>Blockchain Life 2024 in Dubai: BeInCrypto Top Highlights</title>
+		<link>https://beincrypto.com/blockchain-life-dubai-top-highlights/</link>
+		
+		<dc:creator><![CDATA[Daria Krasnova]]></dc:creator>
+		<pubDate>Mon, 18 Nov 2024 12:00:00 +0000</pubDate>
+				<category><![CDATA[Markets]]></category>
+		<category><![CDATA[Crypto News]]></category>
+		<guid isPermaLink="false">https://beincrypto.com/?p=609771</guid>
+
+					<description><![CDATA[<p>The Blockchain Life Forum 2024 brought industry leaders together in Dubai to explore the future of blockchain. Key discussions centered on security advancements, Web3 growth, and strategies to attract institutional investments.</p>
+<p>The post <a href="https://beincrypto.com/blockchain-life-dubai-top-highlights/">Blockchain Life 2024 in Dubai: BeInCrypto Top Highlights</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>The 13th annual Blockchain Life Forum, a premier event for cryptocurrency and blockchain innovators, was held in Dubai from October 22-23. This year’s forum brought together top industry leaders, entrepreneurs, and investors from around the world, celebrating the achievements of blockchain-powered companies and their leaders who are driving innovation in the digital finance space.</strong></p>
+
+
+
+<p>Beyond honoring established players, the forum offered invaluable networking opportunities for hundreds of emerging project founders, allowing them to connect with influential venture capitalists and seasoned industry professionals. If you couldn’t be there, BeInCrypto has you covered: here, we’re sharing insights and takeaways from the forum, straight from the minds of the industry’s leading figures.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-evolution-of-security-and-crime-in-the-cryptocurrency-space">Evolution of Security and Crime in the Cryptocurrency Space</h2>
+
+
+
+<p>This panel focused on the evolving landscape of security within the cryptocurrency sector, exploring major hacks, the role of emerging technologies like AI, and strategies for safeguarding digital assets.</p>
+
+
+
+<p><a href="https://beincrypto.com/sheverified-alena-afanaseva-beincrypto/" target="_blank" rel="noreferrer noopener">BeInCrypto CEO &amp; founder Alena Afanaseva</a> referenced the infamous Mt. Gox hack of 2014, which she noted, “erased enthusiasm for crypto in Japan and triggered tougher regulations.” She added that the Coincheck hack in 2018 led Japan to tighten its security standards, eventually restoring trust in the market.</p>
+
+
+
+<p>Xinxi Wang from the Litecoin Foundation highlighted that significant hacks have historically driven advancements in the industry. The Mt. Gox incident, for instance, spurred the adoption of multi-signature wallets, while the 2016 DAO hack resulted in mandatory smart contract audits. He also pointed to the recent Ronin bridge attack on Axie Infinity as a catalyst for improving cross-chain security protocols.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img decoding="async" fetchpriority="high" width="1024" height="685" src="https://beincrypto.com/wp-content/uploads/2024/11/image-134.png" alt="Alena Afanaseva, CEO &amp; Founder of BeInCrypto at Blockchain Life" class="wp-image-609786" style="aspect-ratio:1.494890510948905;width:1023px;height:auto" srcset="https://beincrypto.com/wp-content/uploads/2024/11/image-134.png 1024w, https://beincrypto.com/wp-content/uploads/2024/11/image-134-360x241.png 360w, https://beincrypto.com/wp-content/uploads/2024/11/image-134-850x569.png 850w, https://beincrypto.com/wp-content/uploads/2024/11/image-134-768x514.png 768w, https://beincrypto.com/wp-content/uploads/2024/11/image-134-150x100.png 150w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Alena Afanaseva, CEO &amp; Founder of BeInCrypto. Source: Blockchain Life</figcaption></figure>
+
+
+
+<p>The panel then discussed where the responsibility for security lies. Jason Jiang, CBO at CertiK, stressed that security is a multi-layered responsibility.</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p>“It starts with thorough project audits, continues with exchange security protocols, and is enforced by regulatory frameworks,” he explained.</p>
+</blockquote>
+
+
+
+<p>Panelists also discussed the advantages of hardware wallets, with Alena Afanaseva referencing research indicating that only 30% of crypto users utilize cold storage, as many still prefer the convenience of hot wallets and exchanges. However, Jason Jiang noted that while hardware wallets are generally more secure, they are not entirely immune to vulnerabilities.</p>
+
+
+
+<p>The panel discussed the increasing threat of phishing scams targeting crypto users. Consensys’s Zied Brini emphasized that many breaches result from weak internal controls rather than flaws in the blockchain itself, highlighting the need for stronger internal security protocols. Meanwhile, Bybit’s Robert Macdonald noted that the exchange has improved cooperation with law enforcement to enhance tracking and recovery efforts for stolen funds.</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p>“On-chain analysis enables us to quickly identify and freeze assets, preventing further losses,” he explained.</p>
+</blockquote>
+
+
+
+<p>Looking forward, Alena Afanaseva pointed out that regions with stricter regulations, such as North America, tend to experience fewer security breaches, while illicit activities have increased in Eastern Europe and the Asia-Pacific region. Xinxi Wang advocated for Web3 security standards to align more closely with those of the broader tech industry, anticipating that future tools will further enhance secure interactions with blockchain technologies.</p>
+
+
+
+<p>To wrap up, each panelist offered closing advice:</p>
+
+
+
+<ul class="bic-gutenberg-list wp-list list-disc ">
+<li><strong>Alena Afanaseva</strong>: “Take control of your assets. Stay informed and use reliable sources to educate yourself.”</li>
+
+
+
+<li><strong>Xinxi Wang</strong>: “Prioritize security in your Web3 projects. It’s essential to protect users and build trust.”</li>
+
+
+
+<li><strong>Robert Macdonald</strong>: “While exchanges are becoming more secure, users should still consider cold wallets for storing assets.”</li>
+
+
+
+<li><strong>Jason Jiang</strong>: “Embrace new technologies, but remember that continuous innovation is key to staying ahead of threats.”<br></li>
+</ul>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-from-idea-to-implementation-launching-a-blockchain-project-in-2024">From Idea to Implementation: Launching a Blockchain Project in 2024</h2>
+
+
+
+<p>Reeve Collins, co-founder of Tether, took the stage to discuss his extensive experience in founding companies within the blockchain space, with topics including funding, technology development, and community-building strategies.</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p>“I’m most known for co-founding and serving as CEO of Tether, launching the first stablecoin,” he began, reflecting on the challenges of bringing Tether to life in 2013. “Hardly anyone had heard of Bitcoin or blockchain, and understanding the use cases was challenging. You have to think of it like the early internet days when people didn’t quite know what to make of it.” </p>
+</blockquote>
+
+
+
+<p>Since then, he explained, he has founded multiple companies, each bringing a unique idea to the blockchain ecosystem. Discussing his philosophy on founding companies, Reeve emphasized the importance of perseverance and learning from experience. </p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img decoding="async" width="2000" height="1333" src="https://beincrypto.com/wp-content/uploads/2024/11/54099508804_44a22ed313_o.jpg" alt="Reeve Collins, Co-Founder of Tether, at Blockchain Life" class="wp-image-609916" style="aspect-ratio:1.4991181657848325;width:1021px;height:auto" srcset="https://beincrypto.com/wp-content/uploads/2024/11/54099508804_44a22ed313_o.jpg 2000w, https://beincrypto.com/wp-content/uploads/2024/11/54099508804_44a22ed313_o-360x240.jpg 360w, https://beincrypto.com/wp-content/uploads/2024/11/54099508804_44a22ed313_o-850x567.jpg 850w, https://beincrypto.com/wp-content/uploads/2024/11/54099508804_44a22ed313_o-768x512.jpg 768w, https://beincrypto.com/wp-content/uploads/2024/11/54099508804_44a22ed313_o-1536x1024.jpg 1536w, https://beincrypto.com/wp-content/uploads/2024/11/54099508804_44a22ed313_o-150x100.jpg 150w" sizes="(max-width: 2000px) 100vw, 2000px" /><figcaption class="wp-element-caption">Reeve Collins, Co-Founder of Tether. Source: Blockchain Life</figcaption></figure>
+
+
+
+<p>He highlighted that founding a company demands persistence and a willingness to learn, even through failures. Over time, he found that discerning which advice to accept and when to rely on his instincts was crucial. Ultimately, experience teaches which guidance to heed and when to trust one’s own judgment, with each misstep offering a valuable lesson.</p>
+
+
+
+<p>While many founders eventually shift to investor roles, Reeve Collins explained his commitment to the early stages of company creation.</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p>“For me, it’s all about the inception and the ideation — creating the concept, forming the team, and bringing it to life. I call it ‘producing’ companies because it’s like producing a movie: you create the idea, assemble the team, and raise the funds,” — he stated.</p>
+</blockquote>
+
+
+
+<p>Currently, Reeve Collins is launching three new companies in Dubai, each with distinct, compelling ideas. He elaborated on these ventures and their goals:</p>
+
+
+
+<ul class="bic-gutenberg-list wp-list list-disc ">
+<li><strong>TreasuryX:</strong> “TreasuryX is a Web3-based stablecoin infrastructure enabling the community and institutions to keep the yield,” he explained. Unlike centralized stablecoins like Tether and Circle, TreasuryX aims to decentralize yield distribution.</li>
+
+
+
+<li><strong>WeFi:</strong> “WeFi is a crypto-native neobank aimed at the underbanked and unbanked. Web3 allows us to provide banking services efficiently, even in developing areas where infrastructure is limited,” Collins said, describing how this project would reach underserved communities globally.</li>
+
+
+
+<li><strong>SuperSol:</strong> “SuperSol is a Solana Layer-2 solution, designed to future-proof Solana by adding scalability for new use cases. It allows on-chain storage for secure messaging apps and similar applications requiring vast transactions at low costs,” he noted, emphasizing the importance of scalability in supporting future blockchain applications.</li>
+</ul>
+
+
+
+<p>Concluding his talk, Reeve Collins reflected on the essentials of launching a company in 2024. “It’s truly just the passion and the belief,” he said, “and the ability to go out and, you know, get kicked in the teeth a few times but just stand up and make the company happen.”</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-the-unicorn-journey-insights-from-top-venture-capitalists">The Unicorn Journey: Insights From Top Venture Capitalists</h2>
+
+
+
+<p>In this session, industry leaders discussed the current state of Web3 investments, emerging trends in crypto ecosystems, and the future of blockchain-based ventures. From high-profile gaming investments to meme coin hype, the panel explored strategies and insights for navigating a volatile market.</p>
+
+
+
+<p><a href="https://beincrypto.com/animoca-yat-siu-mocaverse/" target="_blank" rel="noreferrer noopener">Yat Siu, Chairman and Co-Founder of Animoca Brands</a>, opened by describing the unique opportunity presented by TON (The Open Network) and its connection to Telegram’s vast user base, which includes nearly a billion users.</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p>“TON could bring the viral effects that Web3 needs. While popular platforms like Apple and Steam restrict NFTs in games, TON and Telegram offer a pathway to expanding network effects essential for mainstream adoption,” Siu noted. </p>
+</blockquote>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img decoding="async" width="2000" height="1333" src="https://beincrypto.com/wp-content/uploads/2024/11/54099610785_bd834ee257_o.jpg" alt="Charis Campbell, Yat Siu, Andrei Grachev, Edward Chen and Danilo Carlucci at Blockchain Life" class="wp-image-609900" style="aspect-ratio:1.5003750937734435;width:1027px;height:auto" srcset="https://beincrypto.com/wp-content/uploads/2024/11/54099610785_bd834ee257_o.jpg 2000w, https://beincrypto.com/wp-content/uploads/2024/11/54099610785_bd834ee257_o-360x240.jpg 360w, https://beincrypto.com/wp-content/uploads/2024/11/54099610785_bd834ee257_o-850x567.jpg 850w, https://beincrypto.com/wp-content/uploads/2024/11/54099610785_bd834ee257_o-768x512.jpg 768w, https://beincrypto.com/wp-content/uploads/2024/11/54099610785_bd834ee257_o-1536x1024.jpg 1536w, https://beincrypto.com/wp-content/uploads/2024/11/54099610785_bd834ee257_o-150x100.jpg 150w" sizes="(max-width: 2000px) 100vw, 2000px" /><figcaption class="wp-element-caption">Charis Campbell, Yat Siu, Andrei Grachev, Edward Chen and Danilo Carlucci. Source: Blockchain Life</figcaption></figure>
+
+
+
+<p>Andrei Grachev, Managing Partner at DWF Labs, echoed these sentiments, calling TON’s user base a “key asset” for onboarding millions into the crypto space. As he put it, TON’s current success lies in “simple use cases,” which are gradually evolving into more advanced projects. He predicted that TON’s next phase will bring in “a new wave of DeFi and crypto users.”</p>
+
+
+
+<p>The panelists also discussed Web3 gaming as an entry point for mainstream audiences. Yat Siu emphasized that Web3 gaming is expanding the gaming audience by attracting non-gamers. He compared it to the early days of mobile gaming, where casual players who started with simple mobile games eventually turned to deeper, more immersive gaming experiences.</p>
+
+
+
+<p>The panel ended with a look toward future trends. Yat sees “reputation” as a major focus, predicting that decentralized digital identities will strengthen trust in Web3. Danilo Carlucci of Morningstar Ventures, on the other hand, highlighted “chain abstraction,” which allows users to interact with blockchain without knowing the technical aspects.</p>
+
+
+
+<p>Meanwhile, Edward Chen, venture lead at HTX, pointed to Bitcoin’s growing role in decentralized finance (DeFi), especially through CeDeFi solutions that make DeFi accessible to conservative institutional investors.</p>
+
+
+
+<p>With such diverse narratives at play, the panel agreed that Web3 continues to evolve rapidly. As Andrei Grachev puts it, “Institutionalization is inevitable — family offices and institutional money are entering crypto, bringing stability and maturity to the ecosystem.”</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-investment-strategies-and-crypto-market-trends">Investment Strategies and Crypto Market Trends</h2>
+
+
+
+<p>This panel was dedicated to investment strategies in crypto. <a href="https://beincrypto.com/alicia-kao-kucoin-md-talks-trends-transparency/" target="_blank" rel="noreferrer noopener">Alicia Kao, KuCoin’s managing director</a>, highlighted that macroeconomic conditions, including inflation and interest rate increases, have led private investors to adopt a more cautious approach.</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p>“Private investors are showing a growing preference for secure investments such as staking and earning products rather than purely high returns,” she explained.</p>
+</blockquote>
+
+
+
+<p>Charmaine Lim from HTX highlighted that ongoing blockchain innovation remains a significant draw for investors, even amid volatile market cycles. She emphasized that builders continue to develop regardless of market conditions. Technologies like DePIN (Decentralized Physical Infrastructure Networks) and real-world asset tokenization exemplify blockchain solutions that deliver real utility, sustaining long-term investor interest.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" width="2000" height="1333" src="https://beincrypto.com/wp-content/uploads/2024/11/54099492169_abeb898a9a_o.jpg" alt="Margarita Grazhenskaya, Alicia Kao, Charmaine Lim, Vugar Usi Zade, Edwin Cheung and Ether C at Blockchain Life" class="wp-image-609899" style="aspect-ratio:1.5003750937734435;width:1027px;height:auto" srcset="https://beincrypto.com/wp-content/uploads/2024/11/54099492169_abeb898a9a_o.jpg 2000w, https://beincrypto.com/wp-content/uploads/2024/11/54099492169_abeb898a9a_o-360x240.jpg 360w, https://beincrypto.com/wp-content/uploads/2024/11/54099492169_abeb898a9a_o-850x567.jpg 850w, https://beincrypto.com/wp-content/uploads/2024/11/54099492169_abeb898a9a_o-768x512.jpg 768w, https://beincrypto.com/wp-content/uploads/2024/11/54099492169_abeb898a9a_o-1536x1024.jpg 1536w, https://beincrypto.com/wp-content/uploads/2024/11/54099492169_abeb898a9a_o-150x100.jpg 150w" sizes="(max-width: 2000px) 100vw, 2000px" /><figcaption class="wp-element-caption">Margarita Grazhenskaya, Alicia Kao, Charmaine Lim, Vugar Usi Zade, Edwin Cheung and Ether C. Source: Blockchain Life</figcaption></figure>
+
+
+
+<p><a href="https://beincrypto.com/bitget-market-growth-strategy/" target="_blank" rel="noreferrer noopener">Vugar Usi Zade of Bitget</a> emphasized the importance of long-term planning over chasing market cycles. He explained Bitget’s decision to invest $30 million in decentralized wallets during a bear market, which has since led to Bitget Wallet becoming one of the most downloaded.</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p>“A three- to five-year vision is far more valuable than trying to time the market for short-term gains,” he said, adding that Bitget’s success reflects a commitment to sustainable investment.</p>
+</blockquote>
+
+
+
+<p>Edwin Cheung, CEO of Gate UAE, part of Gate Group, suggested prioritizing projects with real-world applications and experienced teams. He referenced Gate.io’s recent $10 million investment in the TON ecosystem as an example of supporting projects with solid foundations.</p>
+
+
+
+<p>Cheung highlighted that while TON benefits from a strong user base via Telegram, its ecosystem still needs further development, making such investments attractive for their sustainable potential.</p>
+
+
+
+<p>Security was a critical topic, with Alicia Kao from KuCoin stressing the importance of transparency and user protection. She highlighted the exchange’s proof-of-reserves system, which helps ensure that KuCoin’s&nbsp; reserve is carefully managed to support our users even under extreme conditions, ensuring that we can meet demand at all times. Vugar Use Zade described Bitget’s efforts to enhance user safety through education and regular transparency updates.</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p>“We were one of the first exchanges to publish proof of reserves regularly, maintaining a 150% liquidity reserve. Bitget also partners with top AML and KYC providers to protect users from identity fraud, and the company recently invested $5 million in anti-scam education initiatives for our global user base,&#8221;  he shared.</p>
+</blockquote>
+
+
+
+<p>Closing the panel, Edwin Cheung reiterated that adhering to KYC and AML regulations is crucial for gaining investor trust. He highlighted that transparency extends beyond compliance, playing a key role in creating a safer ecosystem that enhances platform security and user confidence.</p>
+<p>The post <a href="https://beincrypto.com/blockchain-life-dubai-top-highlights/">Blockchain Life 2024 in Dubai: BeInCrypto Top Highlights</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://beincrypto.com/wp-content/uploads/2024/11/Blockchain-Life-Covers.png" medium="image" width="1920" height="1081" type="image/png" />
+<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2024/11/Blockchain-Life-Covers.png"/>	</item>
+		<item>
+		<title>Trump 2.0 Crypto Regulation Outlook: Top Lawyer Explains What&#8217;s Ahead</title>
+		<link>https://beincrypto.com/trump-second-term-crypto-regulation/</link>
+		
+		<dc:creator><![CDATA[Oihyun Kim]]></dc:creator>
+		<pubDate>Thu, 14 Nov 2024 12:00:00 +0000</pubDate>
+				<category><![CDATA[Markets]]></category>
+		<category><![CDATA[Regulation]]></category>
+		<category><![CDATA[Regulation News]]></category>
+		<guid isPermaLink="false">https://beincrypto.com/?p=606605</guid>
+
+					<description><![CDATA[<p>"While at the SEC, there are some constraints - Gary Gensler's term runs until 2026 and we can't just remove sitting Commissioners - we might see Commissioner Hester Peirce stepping in as Acting Chair," says Lewis Cohen, explaining the immediate regulatory changes expected under Trump's second term. The renowned crypto lawyer predicts a fundamental shift from the current "regulation by enforcement" approach to a more nuanced, market-friendly framework. "It's regulation with a scalpel rather than a sledgehammer." However, he warns that as federal oversight becomes more accommodative, traditionally strict jurisdictions like New York might step up their enforcement efforts, creating a complex patchwork of compliance requirements.</p>
+<p>The post <a href="https://beincrypto.com/trump-second-term-crypto-regulation/">Trump 2.0 Crypto Regulation Outlook: Top Lawyer Explains What&#8217;s Ahead</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Donald Trump&#8217;s victory in the 2024 US presidential election has sent ripples through the crypto industry, signaling what could be a seismic shift in the US regulatory landscape.</strong></p>
+
+
+
+<p>To understand the implications of this political change, we sat down with <a href="https://www.cahill.com/professionals/lewis-cohen" target="_blank" rel="noreferrer noopener">Lewis R. Cohen</a>, a leading authority in cryptocurrency law and partner at Cahill Gordon &amp; Reindel LLP. With extensive experience navigating the intersection of blockchain technology and regulatory frameworks, Cohen provides unique insights into what could be the most significant regulatory pivot for the crypto industry since its inception. </p>
+
+
+
+<h6 class="wp-block-heading" id="h-what-immediate-changes-can-we-expect-in-crypto-regulation-under-trump-s-second-term-particularly-regarding-key-regulatory-agencies-like-the-sec-and-cftc"><strong>What immediate changes can we expect in crypto regulation under Trump&#8217;s second term, particularly regarding key regulatory agencies like the SEC and CFTC?</strong></h6>
+
+
+
+<p>The most immediate impact will come through leadership transitions at key regulatory agencies. While at the SEC, there are some constraints — Gary Gensler&#8217;s term runs until 2026 and we can&#8217;t just remove sitting Commissioners — we might see Commissioner Hester Peirce stepping in as Acting Chair.</p>
+
+
+
+<p>But the real swift changes could happen at other agencies. The CFPB Director can be removed without cause, and at the OCC, Acting Comptroller Hsu can be replaced immediately. These changes would automatically shift the FDIC board to Republican control. At the CFTC, we could see either Commissioner Pham or Mersinger taking the helm.</p>
+
+
+
+<h6 class="wp-block-heading" id="h-there-s-talk-about-a-shift-from-regulation-by-enforcement-to-a-different-approach-could-you-elaborate-on-how-this-new-regulatory-philosophy-might-look"><strong>There&#8217;s talk about a shift from &#8216;regulation by enforcement&#8217; to a different approach. Could you elaborate on how this new regulatory philosophy might look?</strong></h6>
+
+
+
+<p>Based on what we saw during Trump&#8217;s first term, we&#8217;re looking at a fundamental shift in regulatory philosophy. Instead of the current &#8216;gotcha&#8217; approach focusing on technical violations like registration failures, we expect to see enforcement priorities realign with addressing real market risks — think fraud, market manipulation, and serious misconduct that harm investors.</p>
+
+
+
+<p>The key difference will be in how cases are handled. You&#8217;ll likely see more balanced settlement terms, particularly in technical violation cases, and more practical remediation requirements. But let me be clear — this doesn&#8217;t mean no enforcement. Rather, it&#8217;s about having a more nuanced, market-friendly approach that focuses on correcting informational asymmetries while allowing innovation to flourish. It&#8217;s regulation with a scalpel rather than a sledgehammer.</p>
+
+
+
+<h6 class="wp-block-heading" id="h-how-do-you-see-the-classification-of-major-cryptocurrencies-evolving-particularly-regarding-tokens-like-sol-ada-and-avax-in-relation-to-eth-s-commodity-status"><strong>How do you see the classification of major cryptocurrencies evolving, particularly regarding tokens like SOL, ADA, and AVAX in relation to ETH&#8217;s commodity status?</strong></h6>
+
+
+
+<p>We&#8217;re seeing a significant shift in the crypto classification landscape. The SEC recognizes both BTC and ETH as commodities, and recent court rulings have further complicated attempts to classify all tokens under a blanket securities designation.</p>
+
+
+
+<p>Those tokens like SOL, ADA, AVAX, and DOT share <a href="https://beincrypto.com/coinbase-legal-officer-ethereum-not-security/" target="_blank" rel="noreferrer noopener">fundamental characteristics with ETH</a>. Recent court decisions regarding BNB and XRP secondary market transactions are also pointing towards a more nuanced regulatory approach. What this means in practical terms is that trading and other third-party activities involving these assets would likely carry substantially reduced securities law risks. The market&#8217;s maturing, and our regulatory framework needs to reflect that reality.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1280" height="720" src="https://beincrypto.com/wp-content/uploads/2023/01/bic_Donald_Trump_USA_neutral_1.png" alt="World Liberty Financial, WLFI, Donald Trump crypto, Donald Trump, Trump, Donald Trump DeFi" class="wp-image-271377" srcset="https://beincrypto.com/wp-content/uploads/2023/01/bic_Donald_Trump_USA_neutral_1.png 1280w, https://beincrypto.com/wp-content/uploads/2023/01/bic_Donald_Trump_USA_neutral_1-360x203.png 360w, https://beincrypto.com/wp-content/uploads/2023/01/bic_Donald_Trump_USA_neutral_1-850x478.png 850w, https://beincrypto.com/wp-content/uploads/2023/01/bic_Donald_Trump_USA_neutral_1-768x432.png 768w" sizes="(max-width: 1280px) 100vw, 1280px" /></figure>
+
+
+
+<h6 class="wp-block-heading" id="h-could-you-explain-the-expected-timeline-for-these-regulatory-changes-when-might-the-industry-start-seeing-concrete-impacts"><strong>Could you explain the expected timeline for these regulatory changes? When might the industry start seeing concrete impacts?</strong></h6>
+
+
+
+<p>The timeline here is pretty clear-cut. While the transition period will be crucial with the current administration likely pushing through last-minute actions, we&#8217;re looking at the first two quarters of 2025 for significant changes. </p>
+
+
+
+<p>The broader policy shifts will unfold over the following 6 to 12 months. Some changes, like at the CFPB and OCC, can happen quickly through leadership transitions, but others, especially at the SEC, will take more time due to staggered commissioner terms.</p>
+
+
+
+<h6 class="wp-block-heading" id="h-how-might-state-level-regulation-particularly-in-traditionally-strict-jurisdictions-like-new-york-respond-to-this-potential-federal-deregulation"><strong>How might state-level regulation, particularly in traditionally strict jurisdictions like New York, respond to this potential federal deregulation?</strong></h6>
+
+
+
+<p>Here&#8217;s an interesting dynamic to watch: as federal oversight becomes more accommodative, we might actually see more aggressive enforcement at the state level, particularly in jurisdictions like New York that have historically taken a harder line on crypto. The irony is that a more business-friendly approach at federal agencies like the SEC could actually reduce the urgency for comprehensive federal legislation. </p>
+
+
+
+<p>When that happens, states that have been traditionally skeptical of crypto activity often step up their enforcement efforts to fill what they perceive as a regulatory gap. This could create a complex patchwork of compliance requirements for industry players.</p>
+
+
+
+<h6 class="wp-block-heading" id="h-what-s-the-outlook-for-crypto-legislation-in-congress-particularly-regarding-existing-bills-and-bipartisan-efforts"><strong>What&#8217;s the outlook for crypto legislation in Congress, particularly regarding existing bills and bipartisan efforts?</strong></h6>
+
+
+
+<p>The landscape in Congress is shifting significantly. While the House-passed FIT21 bill likely won&#8217;t move forward, I&#8217;m more interested in the thoughtful market structure legislation being developed in the Senate. Senator Lummis and others have spent years building a bipartisan coalition, and that groundwork will likely serve as the foundation for new legislation.</p>
+
+
+
+<p>However, here&#8217;s the interesting twist: with a more accommodative regulatory approach at federal agencies, we might see less urgency for comprehensive legislation. Market participants might find administrative rulemaking sufficient for their immediate needs.</p>
+
+
+
+<h6 class="wp-block-heading" id="h-regarding-the-crypto-advocacy-that-trump-has-driven-does-it-have-something-to-do-with-the-us-china-rivalry"><strong>Regarding the crypto advocacy that Trump has driven, does it have something to do with the US-China rivalry?</strong></h6>
+
+
+
+<p>It&#8217;s difficult to fully understand what&#8217;s happening behind the scenes, especially with Trump. In my view, it&#8217;s relevant, but it&#8217;s hard to pinpoint exactly how. A major issue is the distribution of the US national debt, particularly with China being one of the largest holders next to Japan.</p>
+
+
+
+<p>Tokenization could potentially play a significant role here. By tokenizing dollar-denominated debt, especially government debt, the US could diversify away from relying so heavily on China as a key holder. This could strengthen the US&#8217;s financial position and reduce its dependence on China, which, in turn, might influence the broader geopolitical landscape.&nbsp;</p>
+
+
+
+<p>I’d like to believe that thoughtful individuals in the US government recognize the importance of this, but it’s genuinely hard to say if that’s the case. The relationship is incredibly complex, and while it makes sense to see these moves as strategic, it’s not entirely clear if that&#8217;s the driving force behind the shift.</p>
+
+
+
+<h6 class="wp-block-heading" id="h-trump-has-mentioned-establishing-a-federal-bitcoin-reserve-how-realistic-is-this-proposal"><strong><strong>Trump has mentioned establishing a federal Bitcoin reserve. How realistic is this proposal?</strong></strong></h6>
+
+
+
+<p>Honestly, I&#8217;m pretty skeptical about whether there would be broad support for the idea of using <a href="https://beincrypto.com/trumps-speech-gensler-out-bitcoin-reserve-in/" target="_blank" rel="noreferrer noopener">crypto as a strategic reserve asset</a>, and I&#8217;m not even convinced it&#8217;s a good idea. If I were a Bitcoin supporter, the last thing I&#8217;d want is for the government to control a large amount of Bitcoin. Sure, Trump might be a supporter right now, but what happens if the next administration isn’t? They could easily decide to dump a massive amount of Bitcoin on the market, which could crash the price and cause chaos.</p>
+
+
+
+<p>While some people might see it as the government endorsing Bitcoin’s importance, I think that misses the point. The real value of Bitcoin isn’t about hitting a specific price target so that people can sell it off for quick profits; it’s about creating an alternative financial system. </p>
+
+
+
+<p>The idea of locking up a bunch of Bitcoin in the hands of the US government just doesn’t align with that vision. There’s too much volatility and too many political risks involved, so I just don’t see it as a smart move.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1920" height="1080" src="https://beincrypto.com/wp-content/uploads/2023/09/bic_US_Presidential_Candidates_Trump-covers_positive.jpg" alt="Donald Trump, crypto trades" class="wp-image-391605" srcset="https://beincrypto.com/wp-content/uploads/2023/09/bic_US_Presidential_Candidates_Trump-covers_positive.jpg 1920w, https://beincrypto.com/wp-content/uploads/2023/09/bic_US_Presidential_Candidates_Trump-covers_positive-360x203.jpg 360w, https://beincrypto.com/wp-content/uploads/2023/09/bic_US_Presidential_Candidates_Trump-covers_positive-850x478.jpg 850w, https://beincrypto.com/wp-content/uploads/2023/09/bic_US_Presidential_Candidates_Trump-covers_positive-768x432.jpg 768w, https://beincrypto.com/wp-content/uploads/2023/09/bic_US_Presidential_Candidates_Trump-covers_positive-1536x864.jpg 1536w, https://beincrypto.com/wp-content/uploads/2023/09/bic_US_Presidential_Candidates_Trump-covers_positive-150x84.jpg 150w" sizes="(max-width: 1920px) 100vw, 1920px" /></figure>
+
+
+
+<h6 class="wp-block-heading" id="h-what-should-the-crypto-industry-expect-during-the-pre-inauguration-transition-period"><strong>What should the crypto industry expect during the pre-inauguration transition period?</strong></h6>
+
+
+
+<p>The transition period is going to be particularly delicate. We&#8217;re likely to see the current administration working to finalize pending rules and potentially accelerating new enforcement actions while they still have the authority. It&#8217;s a typical &#8216;last push&#8217; scenario we often see during transitions.</p>
+
+
+
+<p>Industry players need to stay especially vigilant during this period, as it could create a complex regulatory environment where we&#8217;re dealing with both the outgoing administration&#8217;s final moves and preparing for the incoming team&#8217;s different approach. This period will essentially set the stage for the broader changes we expect to see in 2025.</p>
+
+
+
+<h6 class="wp-block-heading" id="h-who-or-what-do-you-think-could-be-a-key-figure-or-key-indicator-to-watch-for-changes-in-web-3-policies-of-the-new-administration"><strong>Who or what do you think could be a key figure or key indicator to watch for changes in Web 3 policies of the new administration?</strong></h6>
+
+
+
+<p>I think the most important figure to watch would be the person appointed as Treasury Secretary. This role sets the tone for most of the administration&#8217;s domestic and foreign policy. Typically, a position of that level is appointed early on, sometimes even before the Secretary of State. Honestly, regarding crypto, the Secretary of State might not be as relevant, but the Treasury Secretary certainly would be.</p>
+
+
+
+<p>Ideally, it would be someone at least familiar with crypto or, at the very least, not outright hostile towards it. They don’t need to be a huge supporter, but it would be helpful if they weren’t known for being anti-crypto. That would be something to watch closely.</p>
+<p>The post <a href="https://beincrypto.com/trump-second-term-crypto-regulation/">Trump 2.0 Crypto Regulation Outlook: Top Lawyer Explains What&#8217;s Ahead</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://beincrypto.com/wp-content/uploads/2024/11/Lewis-Cohen.jpg" medium="image" width="1920" height="1080" type="image/jpeg" />
+<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2024/11/Lewis-Cohen.jpg"/>	</item>
+		<item>
+		<title>COO Dominic Schwenter on Lisk’s Layer-2 Journey and Emerging Markets Focus</title>
+		<link>https://beincrypto.com/coo-dominic-schwenter-on-lisks-layer-2-journey/</link>
+		
+		<dc:creator><![CDATA[Lynn Wang]]></dc:creator>
+		<pubDate>Tue, 12 Nov 2024 18:00:00 +0000</pubDate>
+				<category><![CDATA[Businesses]]></category>
+		<guid isPermaLink="false">https://beincrypto.com/?p=606900</guid>
+
+					<description><![CDATA[<p>BeInCrypto sat down with Dominic Schwenter, COO of Lisk, to delve into the latest developments surrounding Lisk&#8217;s mainnet launch and the project’s changing role in the blockchain ecosystem. With a rare legacy in Web3 that spans over 8 years, Lisk has strategically shifted from a Layer-1 (L1) to a Layer-2 (L2) approach, aiming to take &#8230; <a href="https://beincrypto.com/coo-dominic-schwenter-on-lisks-layer-2-journey/">Continued</a></p>
+<p>The post <a href="https://beincrypto.com/coo-dominic-schwenter-on-lisks-layer-2-journey/">COO Dominic Schwenter on Lisk’s Layer-2 Journey and Emerging Markets Focus</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>BeInCrypto sat down with Dominic Schwenter, COO of Lisk, to delve into the latest developments surrounding Lisk&#8217;s mainnet launch and the project’s changing role in the blockchain ecosystem.</strong></p>
+
+
+
+<p>With a rare legacy in Web3 that spans over 8 years, Lisk has strategically shifted from a Layer-1 (L1) to a Layer-2 (L2) approach, aiming to take the lead in tackling scalability challenges and democratizing blockchain technology access, with a strong focus on emerging markets.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-inside-lisk-s-journey-to-l2-and-the-collaborative-scaling-of-ethereum"><strong>Inside Lisk&#8217;s Journey to L2 and the Collaborative Scaling of Ethereum</strong></h2>
+
+
+
+<p>Since its founding in 2016, Lisk has witnessed significant growth in the Web3 space and learned valuable lessons along the way. Schwenter reflects on the early days during the interview with BeInCrypto.</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p>“When Lisk was founded, the space was so much more nascent than it is today. Ethereum had just launched, and smart contracts were still a novel concept. Lisk’s founding principle was to democratize access to blockchain technology by making it accessible to JavaScript developers worldwide. Scaling was always on our radar as well,” he stated.</p>
+</blockquote>
+
+
+
+<p>Lisk’s pioneering approach involved building the first JavaScript-based L1 blockchain from scratch. This infrastructure, combined with a focus on app-specific sidechains, set the stage for Lisk’s emphasis on accessibility and community-driven development.</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p>“One of the things that makes Lisk unique is our long-term approach. We’ve always been prescient about the fact that blockchain adoption would take time, perhaps even a decade. That vision shaped our team structure, fund management, and overall strategy,” Schwenter explains.</p>
+</blockquote>
+
+
+
+<p>In 2024, Lisk boldly transitioned from L1 to L2, joining forces with Optimism (OP) and other leading blockchain projects. Lisk is now part of the OP Superchain, a collective of interoperable L2 solutions designed to scale Ethereum while retaining its security benefits.&nbsp;</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p>“Lisk is now 100% focused on our Layer-2, which is EVM-compatible on the OP stack as part of the OP Superchain,” Schwenter described.</p>
+</blockquote>
+
+
+
+<p>For him, the Superchain offers a unique advantage by promoting interoperability and collaboration rather than competition among blockchains. Big names like Uniswap’s Unichain, Sony’s Soneium, and Kraken’s Ink have also joined the Superchain, signaling its potential as a powerful, interconnected framework. Being part of this “interop set” allows Lisk to work with these networks, which are all committed to enhancing blockchain interoperability.</p>
+
+
+
+<p>Additionally, he believes that this cooperative approach is crucial for the mass adoption of Web3, as it tackles the industry&#8217;s fragmented nature.</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p>“It creates the consumer layer on Ethereum, enabling teams to focus on building rather than competing in the infrastructure space,” Schwenter explains.</p>
+</blockquote>
+
+
+
+<p>On the other hand, Schwenter sees that Lisk’s integration with the Superchain provides access to Ethereum’s liquidity and leverages Ethereum’s decentralized security. Schwenter highlights the potential impact of L2 on unlocking Ethereum&#8217;s full potential by allowing scalable applications to be built without the prohibitive costs of L1 fees.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-from-stablecoins-to-agriculture-lisk-s-hands-on-approach-in-high-growth-markets"><strong>From Stablecoins to Agriculture: Lisk’s Hands-On Approach in High-Growth Markets</strong></h2>
+
+
+
+<p>Lisk’s commitment to emerging markets, particularly in regions like Africa and Southeast Asia, is central to its mission. According to data from the International Monetary Fund (IMF), emerging economies now contribute approximately 40-45% of the global GDP. With population growth rates reaching 1.5-2% annually, these developing areas are prime for blockchain adoption.</p>
+
+
+
+<p>Recognizing the demand for blockchain solutions that address practical needs, Lisk partners with local builders, governments, and organizations to support this expansion by providing scalable, cost-effective technology that aligns with economic and developmental needs.</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p>“Emerging markets are leading the way in applying blockchain to real-world challenges, addressing genuine, pressing needs. The solutions being developed there have the power to transform everyday life and hold significant business potential. That’s where we’re focusing our efforts: where we believe too few others are looking,” Schwenter remarked.</p>
+</blockquote>
+
+
+
+<p>For Lisk, this focus includes areas like stablecoins and real-world asset (RWA) tokenization. Schwenter emphasized the importance of RWA, noting that stablecoins, particularly those that bear yields, are popular in emerging markets as they provide access to credit for small businesses and similar needs.</p>
+
+
+
+<p>Lisk’s approach is to support practical use cases that address real problems, such as bringing data on-chain or solving agricultural challenges for small farmers. Schwenter also shares insights on how Lisk is establishing a locally based community in these regions to build trust.</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p>“We’re focused on building trust and personal connections in emerging markets. Many blockchain projects come and go, but we’re committed to developing a sustainable community and ecosystem there,” he explained.</p>
+</blockquote>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-what-s-next-for-lisk-in-2025"><strong>What&#8217;s Next for Lisk in 2025?</strong></h2>
+
+
+
+<p>With the recent mainnet launch, Lisk has set ambitious goals for the upcoming year. The mainnet will kick off with an airdrop campaign, offering a gamified experience for users to earn points and rewards.</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p>“We’re rolling out several seasons of airdrops over the coming months, including a mix of point-based systems and raffle sprints with exclusive incentives for specific applications within the Lisk network,” Schwenter shared with BeInCrypto.</p>
+</blockquote>
+
+
+
+<p>Looking forward to 2025, Lisk plans to be one of the first OP stack L2s to implement fault proofs, further decentralizing its infrastructure. Schwenter emphasizes the significance of these developments.</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p>“We believe that this interoperability and focus on emerging markets position us uniquely in the Web3 landscape. We’re excited for the paradigm shift this will bring in terms of how chains and applications are built and adopted,” he concluded.</p>
+</blockquote>
+<p>The post <a href="https://beincrypto.com/coo-dominic-schwenter-on-lisks-layer-2-journey/">COO Dominic Schwenter on Lisk’s Layer-2 Journey and Emerging Markets Focus</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://beincrypto.com/wp-content/uploads/2024/11/photo_2024-11-12-16.12.19.jpeg" medium="image" width="1280" height="720" type="image/jpeg" />
+<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2024/11/photo_2024-11-12-16.12.19.jpeg"/>	</item>
+		<item>
+		<title>CLS Global CEO Filipp Veselov Addresses SEC Investigation, Commits to Compliance</title>
+		<link>https://beincrypto.com/filipp-veselov-addresses-sec-investigation/</link>
+		
+		<dc:creator><![CDATA[Advertorial]]></dc:creator>
+		<pubDate>Mon, 11 Nov 2024 10:27:16 +0000</pubDate>
+				<category><![CDATA[Businesses]]></category>
+		<guid isPermaLink="false">https://beincrypto.com/?p=605898</guid>
+
+					<description><![CDATA[<p>In response to a recent US Securities and Exchange Commission (SEC) investigation, CLS Global has come forward to address the scrutiny surrounding its operations. CEO Filipp Veselov has responded directly, underscoring CLS Global’s commitment to regulatory compliance and outlining the proactive steps the company is taking to resolve any concerns with US authorities. In a &#8230; <a href="https://beincrypto.com/filipp-veselov-addresses-sec-investigation/">Continued</a></p>
+<p>The post <a href="https://beincrypto.com/filipp-veselov-addresses-sec-investigation/">CLS Global CEO Filipp Veselov Addresses SEC Investigation, Commits to Compliance</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>In response to a recent US Securities and Exchange Commission (SEC) investigation, CLS Global has come forward to address the scrutiny surrounding its operations. </strong></p>
+
+
+
+<p>CEO Filipp Veselov has responded directly, underscoring CLS Global’s commitment to regulatory compliance and outlining the proactive steps the company is taking to resolve any concerns with US authorities.</p>
+
+
+
+<p>In a recent interview, Veselov shared the firm’s strategy to maintain transparency and cooperation while continuing its mission to provide secure and compliant crypto solutions worldwide.</p>
+
+
+
+<p><strong><em>Could you clarify CLS Global&#8217;s current position regarding the actions taken by US authorities against cryptocurrency companies, including yours?</em></strong></p>
+
+
+
+<p>“Our stance is clear. CLS Global has consistently maintained a policy that prohibits engagement with US clients, entities, or users.</p>
+
+
+
+<p>We understand the importance of compliance and have structured our operations to remain outside of US markets and regulatory jurisdictions. This has been a guiding principle since our founding, and we are committed to upholding it.”</p>
+
+
+
+<p><strong><em>What initial actions has CLS Global taken to begin addressing this matter with US authorities?</em></strong></p>
+
+
+
+<p>“We are proactively addressing this matter. Our first step has been to reach out to US authorities directly to open a constructive dialogue. This engagement reflects our dedication to compliance and transparency and demonstrates our willingness to work collaboratively to resolve any misunderstandings.</p>
+
+
+
+<p>Our goal is to clarify our position and address any concerns the SEC may have.”</p>
+
+
+
+<p><strong><em>Can you describe any specific measures CLS Global is taking to strengthen its compliance practices?</em></strong></p>
+
+
+
+<p>“Yes, we are actively enhancing our internal processes. For example, we are conducting a comprehensive review of all client agreements to ensure they clearly communicate our policies regarding US persons and entities.</p>
+
+
+
+<p>Additionally, we are scrutinizing our operations on various cryptocurrency exchanges, focusing particularly on those with robust “Know Your Customer” (KYC) protocols. These measures aim to eliminate potential risks and enhance compliance across our operations.”</p>
+
+
+
+<p><strong><em>How is CLS Global engaging with stakeholders to maintain their confidence during this time?</em></strong></p>
+
+
+
+<p>“We want to express our gratitude for the patience and understanding of our clients, partners, and stakeholders as we work through this situation.</p>
+
+
+
+<p>We are fully committed to maintaining open lines of communication and will continue providing updates as appropriate. Our stakeholders can trust that we are doing everything necessary to resolve this matter responsibly and with integrity.”</p>
+
+
+
+<p><strong><em>Looking forward, what steps will CLS Global implement to prevent similar situations from arising in the future?</em></strong></p>
+
+
+
+<p>“Our approach is to integrate compliance into every layer of our business. Beyond this immediate response, we are continuously evaluating our policies and operational practices to ensure alignment with global regulatory standards.</p>
+
+
+
+<p>By focusing on proactive risk management and maintaining a culture of compliance, we aim to minimize potential regulatory challenges in the future.”</p>
+
+
+
+<p><strong><em>What message would you like to convey to your clients and partners during this time?</em></strong></p>
+
+
+
+<p>“I would like to reassure them that CLS Global remains dedicated to providing secure and compliant cryptocurrency solutions.</p>
+
+
+
+<p>We are committed to fostering a trustworthy environment and will continue adapting our practices to maintain the highest compliance standards. Our goal is to sustain the confidence of our clients and partners by prioritizing transparency and regulatory alignment.”</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>As a key player in cryptocurrency markets, CLS Global delivers liquidity solutions while adhering to strict compliance measures. The company’s framework underscores its commitment to regulatory standards, serving clients worldwide.</p>
+<p>The post <a href="https://beincrypto.com/filipp-veselov-addresses-sec-investigation/">CLS Global CEO Filipp Veselov Addresses SEC Investigation, Commits to Compliance</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://beincrypto.com/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5291813701025916183-y.jpg" medium="image" width="1280" height="720" type="image/jpeg" />
+<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2024/11/telegram-cloud-photo-size-2-5291813701025916183-y.jpg"/>	</item>
+		<item>
+		<title>Inside Starknet’s Vision: James Strudwick on Innovation, Growth &#038; Global Outreach</title>
+		<link>https://beincrypto.com/james-strudwick-on-innovation-growth-global-outreach/</link>
+		
+		<dc:creator><![CDATA[Lynn Wang]]></dc:creator>
+		<pubDate>Wed, 06 Nov 2024 12:51:29 +0000</pubDate>
+				<category><![CDATA[Businesses]]></category>
+		<guid isPermaLink="false">https://beincrypto.com/?p=603615</guid>
+
+					<description><![CDATA[<p>In early August this year, the Starknet Foundation appointed James Strudwick as Executive Director following Diego Oliva&#8217;s departure. Since joining the foundation in January, Strudwick has brought a renewed vision centered on Starknet’s technological advancement, accessibility for developers, and global outreach. In an exclusive interview with BeInCrypto, Strudwick shared insights into his roadmap for Starknet’s &#8230; <a href="https://beincrypto.com/james-strudwick-on-innovation-growth-global-outreach/">Continued</a></p>
+<p>The post <a href="https://beincrypto.com/james-strudwick-on-innovation-growth-global-outreach/">Inside Starknet’s Vision: James Strudwick on Innovation, Growth &amp; Global Outreach</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>In early August this year, the Starknet Foundation appointed James Strudwick as Executive Director following Diego Oliva&#8217;s departure. Since joining the foundation in January, Strudwick has brought a renewed vision centered on Starknet’s technological advancement, accessibility for developers, and global outreach.</strong></p>
+
+
+
+<p>In an exclusive interview with BeInCrypto, Strudwick shared insights into his roadmap for Starknet’s future, focusing on establishing Starknet’s unique position in the Web3 industry and adoption.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-unlocking-starknet-s-potential-strudwick-s-strategy-for-a-builder-centric-ecosystem"><strong>Unlocking Starknet’s Potential: Strudwick’s Strategy for a Builder-Centric Ecosystem</strong></h2>
+
+
+
+<p>Under his leadership, Strudwick outlined a clear vision focused on three pillars. His first goal centers on making Starknet the most accessible ecosystem for Web3 builders.</p>
+
+
+
+<p>Innovation is also at the heart of Starknet’s mission. Strudwick highlighted the platform’s focus on Zero-Knowledge Scalable Transparent Argument of Knowledge (ZK-STARKs) as an essential advancement that enhances blockchain scalability and security. This technology, developed by the Starkware team, positions Starknet as a leader in cryptographic innovations, offering an edge over competing Layer-2 solutions.</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p><em>“At the Starknet Foundation, we’ll keep pushing this concept of innovation by investing in our core technology and enabling more complex, innovative applications by dedicating time and resources to our ecosystem”.</em> &#8211; he told BeInCrypto.</p>
+</blockquote>
+
+
+
+<p>To drive innovation within its community, The Starknet Foundation established a multi-stage structured grant program that Strudwick has significantly expanded. These tiered grants provide funding and resources for both emerging and mature projects, supporting developers from concept through to market launch.</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p><em>“Over the next year, two years, and three years, we’ll continue to expand our developer partnerships, grant programs, and educational initiatives to ensure that whether you’re a seasoned veteran or a newcomer, you can easily bring your ideas to life on Starknet. This focus on accessibility will ensure that Starknet becomes the top choice for those looking to build the next generation of ideas and applications”</em> &#8211; <strong> </strong>he elaborated.</p>
+</blockquote>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-addressing-user-experience-challenges-to-boost-blockchain-adoption"><strong>Addressing User Experience Challenges to Boost Blockchain Adoption</strong></h2>
+
+
+
+<p>Beyond technological innovation, Strudwick sees the development of a global, inclusive community as essential to Starknet’s mission. Recognizing that adoption is critical to Starknet’s success, the Starknet Foundation  has spearheaded initiatives to engage emerging markets, particularly in Africa, Latin America, and Southeast Asia.</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p><em>“We also have a lot of initiatives focused on developer acquisition in places like Africa. While Europe has always been a stronghold for us, the Middle East and Africa are among the fastest-growing communities for developers in the Starknet ecosystem. There are multiple ways for people to engage with us on the foundation side”</em> &#8211; he added.</p>
+</blockquote>
+
+
+
+<p>By expanding its presence in these markets, Starknet seeks to create a community-driven ecosystem that transcends geographic boundaries. Strudwick’s global outreach strategy also involves partnerships with regional organizations, ensuring that Starknet’s growth resonates with a broad, inclusive audience.</p>
+
+
+
+<p>Despite Starknet’s technical strengths, Strudwick acknowledges that user adoption remains an industry-wide challenge. He highlighted the need to create an intuitive user experience that simplifies blockchain interactions for non-technical users.</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p>“The first barrier to adoption we need to overcome is creating an intuitive user experience that makes it easy for non-blockchain-native users to engage with decentralized applications” &#8211; he noted.</p>
+</blockquote>
+
+
+
+<p>Features like account abstraction, which allows users to pay transaction fees in any token, exemplify Starknet’s commitment to improving user experience. Strudwick believes these incremental improvements are vital for attracting a broader audience and increasing blockchain engagement.</p>
+
+
+
+<p>Looking ahead, Strudwick sees potential for Starknet’s technology to support real-world applications beyond typical crypto use cases. Starknet already hosts projects in the DeFi and gaming spaces, but emerging applications in carbon offset management, wellness, and personal development showcase the platform’s versatility.</p>
+
+
+
+<p>For instance, Carbonable leverages Starknet to enhance transparency in sustainability efforts. Meanwhile, Starkfit and Focus Tree bring unique applications to health and wellness.</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p>“These projects showcase some of Starknet’s unique capabilities. [&#8230;] They have created engaging applications with impressive social features that promote healthier lifestyles and habits. And I could go on—we also have examples in the coffee industry, music industry, and the creator economy. This is why developers are choosing to build on Starknet” &#8211; Strudwick concluded.</p>
+</blockquote>
+<p>The post <a href="https://beincrypto.com/james-strudwick-on-innovation-growth-global-outreach/">Inside Starknet’s Vision: James Strudwick on Innovation, Growth &amp; Global Outreach</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://beincrypto.com/wp-content/uploads/2024/11/DEx-Guru-Interview-1.png" medium="image" width="1920" height="1080" type="image/png" />
+<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2024/11/DEx-Guru-Interview-1.png"/>	</item>
+		<item>
+		<title>How CEO John Lilic Will Transform TLOS and Governance</title>
+		<link>https://beincrypto.com/how-ceo-john-lilic-will-transform-tlos-and-governance/</link>
+		
+		<dc:creator><![CDATA[Lynn Wang]]></dc:creator>
+		<pubDate>Tue, 05 Nov 2024 08:46:51 +0000</pubDate>
+				<category><![CDATA[Businesses]]></category>
+		<guid isPermaLink="false">https://beincrypto.com/?p=602494</guid>
+
+					<description><![CDATA[<p>Telos Foundation recently appointed its new CEO, John Lilic, who previously served as its Executive Director. In a recent exclusive interview with BeInCrypto, Lilic outlined his vision to elevate Telos from a Layer-0 blockchain to a community-owned venture production studio. With extensive experience at ConsenSys and Polygon, Lilic aims to establish a solid ecosystem that &#8230; <a href="https://beincrypto.com/how-ceo-john-lilic-will-transform-tlos-and-governance/">Continued</a></p>
+<p>The post <a href="https://beincrypto.com/how-ceo-john-lilic-will-transform-tlos-and-governance/">How CEO John Lilic Will Transform TLOS and Governance</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Telos Foundation recently appointed its new CEO, John Lilic, who previously served as its Executive Director. In a recent exclusive interview with BeInCrypto, Lilic outlined his vision to elevate Telos from a Layer-0 blockchain to a community-owned venture production studio.</strong></p>
+
+
+
+<p>With extensive experience at ConsenSys and Polygon, Lilic aims to establish a solid ecosystem that prioritizes decentralization, scalability, and meaningful utility for Telos’ native token, TLOS. </p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-inside-telos-bold-move-to-reinvent-community-driven-solutions"><strong>Inside Telos’ Bold Move to Reinvent Community-Driven Solutions</strong></h2>
+
+
+
+<p>Lilic has a strategic vision for Telos that focuses on establishing a venture production studio model. This model will enable Telos to incubate a broad range of blockchain products internally.</p>
+
+
+
+<p>Additionally, this direction aims to make Telos more self-reliant, enabling the foundation to create products that meet its community’s needs without relying on external platforms. Furthermore, the venture studio approach enhances Telos’ ability to innovate while aligning product development with community values.</p>
+
+
+
+<p>A cornerstone of this strategy is Telos X, an exchange developed in partnership with Binance’s Link Program. Leveraging Binance’s security protocols and liquidity support, Telos X aims to provide users with a seamless trading experience and quick fiat on- and off-ramps. </p>
+
+
+
+<p>Lilic explained to BeInCrypto during Binance Blockchain Week Dubai 2024:</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p><em>“Bootstrapping an exchange is challenging because it requires both robust security and liquidity from the start. Having these elements at the outset gives us a much stronger foundation for success. This is our current ecosystem view, which we’ll continue to expand as we build and add more to the Telos ecosystem. [&#8230;] We’re securing licenses across multiple regions to ensure strong compliance from the outset, with robust fiat support from the beginning,” </em></p>
+</blockquote>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-telos-x-and-beyond-lilic-s-blueprint-for-a-self-sustaining-blockchain-ecosystem"><strong>Telos X and Beyond: Lilic’s Blueprint for a Self-Sustaining Blockchain Ecosystem</strong></h2>
+
+
+
+<p>In addition to Telos X, Telos is advancing its ecosystem with the upcoming Telos zkEVM (zero-knowledge Ethereum Virtual Machine) and SNARKtor, reinforcing secure interoperability and compatibility with Ethereum. SNARKtor, Telos’ native technology, enables trustless bridges for secure cross-chain transactions, eliminating the need for centralized providers. These innovations enhance performance, strengthen security, expand the TLOS token’s utility, and foster greater engagement among both developers and end-users.</p>
+
+
+
+<p>Lilic added:</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p><em>“The zkEVM sits above that layer and is fully compatible with Ethereum. Not only does it enhance SNARKtor’s capabilities, but we’re also using a hardware-software co-design approach, which enables a high-performance, fast solution. With proving markets growing tremendously, the ZK ecosystem is highly competitive, and we’re aiming to be a key player in that space.” </em></p>
+</blockquote>
+
+
+
+<p>Another fundamental part of Telos’ strategy under Lilic’s leadership is its unique governance model, rooted in a Delegated Proof of Stake (DPoS) framework. This structure empowers token holders with equal voting rights, making it easy for community members to propose and vote on changes. Unlike networks with centralized treasuries or heavy subsidies, Telos maintains a decentralized approach that encourages long-term engagement and distributed ownership among its community members.</p>
+
+
+
+<p>Lilic explained:</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p><em>“With Telos block producers or validators, if they’re not performing well, the community is very active. If a validator or block producer loses votes, they can be knocked down in rank, meaning they’re no longer a top validator, and they won’t get paid. We believe that building good products and services that are sustainable—because users genuinely want them—is a critical part of what we’re doing. Long term, I think that’s really the only way to do business.” </em></p>
+</blockquote>
+
+
+
+<p>Telos’ approach to community engagement extends beyond governance, with a strong emphasis on responsive product development. Listening to community feedback led to the creation of EVM 2.0, an upgrade that addresses performance issues identified by users. This example illustrates Lilic’s commitment to delivering value directly to users, prioritizing quality and sustainability over quick, short-term gains.</p>
+
+
+
+<h2 class="bic-gutenberg-heading wp-heading wp-block-heading" id="h-2025-vision-how-tlos-and-key-upgrades-will-transform-telos-reach"><strong>2025 Vision: How TLOS and Key Upgrades Will Transform Telos’ Reach</strong></h2>
+
+
+
+<p>The TLOS token serves as a central pillar for Telos’ governance, utility, and ecosystem functionality. Beyond its use in governance, the token supports multiple layers and services across Telos’ platform, including gas fees, block production, and aggregation fees.</p>
+
+
+
+<p>He remarked:</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p><em>“Recently, we had a community-led governance proposal to reduce inflation, which significantly lowered the inflation rate for block producers from around 14% down to 4%. This effort had a meaningful impact on the token.” </em></p>
+</blockquote>
+
+
+
+<p>In the EVM layer, gas fees are paid in TLOS, and collected fees are burned, much like Ethereum’s burn mechanism. SNARKtor also uses TLOS as its payment currency, supporting Telos, Ethereum, and potentially other chains.</p>
+
+
+
+<p>Meanwhile, Telos X will prioritize TLOS in trading pairs, similar to Binance’s approach with BNB. In regions where it is allowed, Telos X will operate a buy-and-burn program based on exchange revenue to support TLOS’s value further.</p>
+
+
+
+<p>Lilic emphasized:</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p><em>“This means that the TLOS token plays a crucial role across our ecosystem, connecting and supporting multiple products and services with tangible utility and functionality.”</em></p>
+</blockquote>
+
+
+
+<p>Looking toward early 2025, Lilic’s roadmap for Telos centers on advancing the TLOS token’s utility and expanding the network’s global presence. Plans include deploying Telos X in multiple regions with fiat support, and launching the Telos zkEVM and SNARKtor by mid-year.</p>
+
+
+
+<p>As Lilic explains, the goal for EVM 2.0 is to establish the “fastest, high-performing EVM in the market, with a thriving ecosystem.” He highlights that many new projects are already poised to onboard once 2.0 is live, marking it as a critical milestone.</p>
+
+
+
+<p>Telos’ ZK research also remains a priority, with SNARKtor expected to launch next year. By mid-2025, Lilic anticipates Telos will have EVM 2.0, SNARKtor, and the ZK EVM all operational, supporting a high-performance, compliant ecosystem. He pointed to community-driven initiatives like Takika, their in-house NFT platform, as well as ongoing marketing and event participation to further strengthen community engagement.</p>
+
+
+
+<p>Lilic concluded:</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p><em>“By the middle part of 2025, Telos will be a very robust ecosystem.”</em></p>
+</blockquote>
+<p>The post <a href="https://beincrypto.com/how-ceo-john-lilic-will-transform-tlos-and-governance/">How CEO John Lilic Will Transform TLOS and Governance</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://beincrypto.com/wp-content/uploads/2024/11/bic_Telos_1-covers_neutral.png" medium="image" width="1280" height="720" type="image/png" />
+<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2024/11/bic_Telos_1-covers_neutral.png"/>	</item>
+		<item>
+		<title>What Stages Should Crypto Startups Approach VCs for Fundraising?</title>
+		<link>https://beincrypto.com/crypto-startups-approach-vcs-fundraising/</link>
+		
+		<dc:creator><![CDATA[Dirk van Haaster]]></dc:creator>
+		<pubDate>Mon, 04 Nov 2024 15:25:07 +0000</pubDate>
+				<category><![CDATA[Markets]]></category>
+		<guid isPermaLink="false">https://beincrypto.com/?p=602043</guid>
+
+					<description><![CDATA[<p>For any cryptocurrency startup, deciding when to approach venture capitalists (VCs) is a crucial problem. The best time to look for outside funding varies greatly, depending on the particular requirements of the project and the interests of the venture capitalists (VCs) involved. The investment thresholds of various VCs vary. While some investors are satisfied with &#8230; <a href="https://beincrypto.com/crypto-startups-approach-vcs-fundraising/">Continued</a></p>
+<p>The post <a href="https://beincrypto.com/crypto-startups-approach-vcs-fundraising/">What Stages Should Crypto Startups Approach VCs for Fundraising?</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>For any cryptocurrency startup, deciding when to approach venture capitalists (VCs) is a crucial problem. The best time to look for outside funding varies greatly, depending on the particular requirements of the project and the interests of the venture capitalists (VCs) involved.</strong></p>
+
+
+
+<p>The investment thresholds of various VCs vary. While some investors are satisfied with the founding team&#8217;s strength and the idea alone, others look for concrete results like a Minimum Viable Product (MVP) or obvious market traction. All agree that raising money should never be seen as the final goal. Instead, it’s a strategic tool that must align with a startup’s growth trajectory.</p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p><em>“Founders shouldn’t feel pressured to chase VC funding unless it aligns with their growth strategy. The goal should be building sustainable businesses with healthy revenue streams, not just fundraising for the sake of it,”</em> Leonarda Rajeckyte from The VC Whisperer states.  </p>
+</blockquote>
+
+
+
+<p>With this principle in mind, we’ve gathered insights from experts at Axia8 Ventures, Bing Ventures, Capitable Group, Outlier Ventures, and The VC Whisperer to shed light on the right stages for crypto startups to approach VCs.</p>
+
+
+
+<h3 class="wp-block-heading" id="h-pre-seed-stage-building-a-vision-and-team"><strong>Pre-Seed Stage: Building a Vision and Team</strong></h3>
+
+
+
+<p>For some VCs, investing begins even before an MVP exists. <a href="https://www.axia8.com/" target="_blank" rel="noreferrer noopener nofollow">Axia8 Ventures</a>, led by Wayne Lin, focuses on the very early stages of a startup’s journey. For them, the most important criterion is not necessarily the technical advancement of the project but the strength of the founder&#8217;s vision and adaptability. </p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p><em>“We invest at the truly early stage, often before a deck or product is even developed. The critical factor for us is the founder&#8217;s vision, passion, and capability to pivot through multiple iterations. We&#8217;ve worked with founders who failed twice but succeeded on their third try,”</em> As Wayne Lin explains.</p>
+</blockquote>
+
+
+
+<p>This approach highlights the importance of having a strong, committed team with the ability to persevere and pivot through failures.</p>
+
+
+
+<h3 class="wp-block-heading" id="h-seed-stage-concept-validation-with-whitepaper-and-deck"><strong>Seed Stage: Concept Validation with Whitepaper and Deck</strong></h3>
+
+
+
+<p>As a project progresses from ideation to conceptualization, having a well-crafted whitepaper and a solid deck becomes crucial. According to Bruce Lan from <a href="https://www.bing-ventures.com/" target="_blank" rel="noreferrer noopener nofollow">Bing Ventures</a>, the whitepaper plays a pivotal role in bridging the gap between an idea and its execution. </p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p><em>“In the early stages, a well-crafted whitepaper or deck can bridge the gap between an idea and execution. It’s essential for teams to communicate a clear vision and path forward. VCs are more likely to engage when they see that the project is grounded in a solid, thoughtful concept, even if it&#8217;s still in its infancy.”</em></p>
+</blockquote>
+
+
+
+<p>This is particularly important for startups looking to raise funds at the seed stage, where they may not yet have a fully functional MVP but can present a compelling argument for the viability of their idea.&nbsp;</p>
+
+
+
+<p>A whitepaper can serve as an essential document that articulates the project’s vision, technology, and potential market impact. It gives VCs a clear roadmap of where the project is headed and how it plans to get there.</p>
+
+
+
+<h3 class="wp-block-heading" id="h-mvp-stage-gaining-credibility-and-minimizing-risk"><strong>MVP Stage: Gaining Credibility and Minimizing Risk</strong></h3>
+
+
+
+<p>As a project advances past the ideation stage, having a Minimum Viable Product (MVP) becomes a critical factor in demonstrating both credibility and progress to VCs. Matthew Tang from <a href="https://capitable.us/" target="_blank" rel="noreferrer noopener nofollow">Capitable Group</a> emphasizes the importance of an MVP in instilling confidence in investors. </p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p><em>“A working MVP demonstrates progress and eliminates any suspicion of vaporware or scams. At this stage, VCs are more confident in the team’s ability to build and deliver,”</em> says Tang.</p>
+</blockquote>
+
+
+
+<p>For many VCs, especially those who enter the later stages of seed funding, having an MVP is a concrete indicator that the project has moved beyond the theoretical phase and into practical application. The presence of a functioning MVP also provides investors with an opportunity to evaluate the product&#8217;s technical feasibility and potential market fit.</p>
+
+
+
+<h3 class="wp-block-heading" id="h-scaling-stage-approaching-vcs-for-growth-capital"><strong>Scaling Stage: Approaching VCs for Growth Capital</strong></h3>
+
+
+
+<p>A cryptocurrency project should look for venture funding to support its next stage of growth once it has begun to attract users and has demonstrated its product-market fit. When a startup is prepared to grow into new markets, accelerate product development, or scale operations, Pietro Negri of <a href="https://outlierventures.io/" target="_blank" rel="noreferrer noopener nofollow">Outlier Ventures</a> suggests that they approach venture capitalists. </p>
+
+
+
+<blockquote class="max-w-xl text-4.5 border-l-2 border-blue-600 pl-11 mb-9 select-all [&#038;_p]:!mb-0 wp-block-quote">
+<p><em>&#8220;When a crypto project needs funding to take its ventures to the next level, it should approach venture capitalists. VCs look for indications of strong product-market fit and growth potential at this stage, whether it&#8217;s expanding the product or entering a new market,&#8221;</em> says Negri.</p>
+</blockquote>
+
+
+
+<p>Venture capitalists are currently searching for projects that have already demonstrated their concept and now need funding to grow. They will evaluate important measures of product-market fit, like revenue generation, user adoption, and the project&#8217;s capacity to draw in partnerships.&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading" id="h-key-criteria-vcs-look-for-in-crypto-startups"><strong>Key Criteria VCs Look for in Crypto Startups</strong></h3>
+
+
+
+<p>Several universal factors help VCs evaluate the potential of crypto startups, regardless of the stage. These criteria include:</p>
+
+
+
+<ul class="bic-gutenberg-list wp-list list-disc ">
+<li>Founding team</li>
+
+
+
+<li>Technological innovation</li>
+
+
+
+<li>Market potential and capacity for problem-solving</li>
+
+
+
+<li>Strategic partnerships</li>
+</ul>
+
+
+
+<p>For a deeper look into each of these criteria and insights from experts like Wayne Lin (Axia8 Ventures), Bruce Lan (Bing Ventures), and Pietro Negri (Outlier Ventures), refer to our article on <a href="https://beincrypto.com/key-criteria-vcs-prioritize-assessing-crypto-project/" target="_blank" rel="noreferrer noopener nofollow">Key Criteria VCs Prioritize When Assessing a Crypto Project</a>.</p>
+
+
+
+<h3 class="wp-block-heading" id="h-common-pitfalls-to-avoid-when-seeking-vc-funding"><strong>Common Pitfalls to Avoid When Seeking VC Funding</strong></h3>
+
+
+
+<p>Even though raising money can be exciting, a lot of cryptocurrency startups risk failing because they make simple mistakes that could have a negative impact on their chances of success. Red flags are easily spotted by VCs, and a startup&#8217;s attractiveness can be greatly increased by avoiding these pitfalls.</p>
+
+
+
+<ul class="bic-gutenberg-list wp-list list-disc ">
+<li><strong>Unclear vision and goals</strong>: Uncertain vision and goals: One of the most frequent errors is to propose an extremely ambitious or vague vision without providing a clear plan for how to get there. Startups need to be able to clearly explain both their long-term objectives and the precise actions they plan to take to get there. &#8220;Investors need to see a well-defined plan that demonstrates how the project intends to grow and scale,&#8221; says Leonarda Rajeckyte of The VC Whisperer.&nbsp;</li>
+
+
+
+<li><strong>Incomplete tokenomics</strong>: Many crypto projects fail to adequately design a sustainable and transparent tokenomics model. VCs are particularly cautious of projects where the token&#8217;s utility and value growth are unclear or poorly thought out. A solid tokenomics model should outline how the token functions within the ecosystem and its long-term value potential.</li>
+
+
+
+<li><strong>Lack of compliance</strong>: Legal and regulatory issues are often overlooked in the rush to launch, which can be disastrous in the long run. Failing to consider compliance can turn VCs away and also lead to legal complications down the line. Bruce Lan from Bing Ventures stresses, “Compliance is crucial. Crypto projects need to be mindful of regulations, especially if they plan to expand internationally.”</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading"><strong>Final Thoughts: Aligning Funding with Growth Strategy</strong></h3>
+
+
+
+<p>Raising venture capital is a critical step for many crypto startups, but it must align with the startup&#8217;s growth trajectory. As emphasized by experts from Axia8 Ventures, Bing Ventures, Capitable Group, Outlier Ventures, and The VC Whisperer, there is no one-size-fits-all approach to securing VC funding.</p>
+
+
+
+<p>The decision to approach VCs should be driven by the project’s readiness, market fit, and clear long-term strategy. Startups should not view fundraising as an achievement in itself but as a means to support sustainable growth. Leonarda Rajeckyte from The VC Whisperer wisely advises that startups should pursue funding only when it enhances their business strategy.</p>
+
+
+
+<p>Timing is essential. VCs are more likely to invest when there is demonstrable progress—whether it&#8217;s a strong team, an MVP, or early market traction. Ultimately, the goal should be to use funding as a tool to scale, without losing focus on the project&#8217;s core mission and vision. Clear objectives and a solid growth strategy will always attract the right investors at the right time.</p>
+<p>The post <a href="https://beincrypto.com/crypto-startups-approach-vcs-fundraising/">What Stages Should Crypto Startups Approach VCs for Fundraising?</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://beincrypto.com/wp-content/uploads/2024/11/crypto-vc-funding.jpg" medium="image" width="1920" height="1080" type="image/jpeg" />
+<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2024/11/crypto-vc-funding.jpg"/>	</item>
+	</channel>
+</rss>
