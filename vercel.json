@@ -1,9 +1,8 @@
 {
-    "rewrites": [
-      {
-        "source": "/Pudgy-Penguins-Adopts-Solami-as-New-Mascot-Symbolizing-Connection-to-Solana-and-the-SOL-Army",
-        "destination": "/Pudgy-Penguins-Adopts-Solami-as-New-Mascot-Symbolizing-Connection-to-Solana-and-the-SOL-Army.html"
-      }
-    ]
-  }
-  
+  "rewrites": [
+    {
+      "source": "/How-Artificial-Intelligence-Transformed-the-Life-of-a-Stray-Dog-Named-Spidey",
+      "destination": "/How-Artificial-Intelligence-Transformed-the-Life-of-a-Stray-Dog-Named-Spidey.html"
+    }
+  ]
+}
